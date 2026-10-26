@@ -1,0 +1,995 @@
+abyss = { file = "Special/abyss.png", origin = [16, 32] }
+abyss_target = { file = "Special/abyss_target.png", origin = [17, 32] }
+achivarrows = { file = "Main Menu/achivarrows.png", origin = [42, 0] }
+achivementbox = { file = "GUI/achivementbox.png", origin = [194, 0] }
+achivements = { file = "Main Menu/achivements.png" }
+achivements_new = { file = "Main Menu/achivements_new.png" }
+act9 = { file = "Zones/Act9/act9.png" }
+act9_dead = { file = "Zones/Act9/act9_dead.apng", origin = [32, 32], fps = 0 }
+act9_tiles_1 = { file = "Zones/Act9/act9_tiles_1.png" }
+act9_tiles_2 = { file = "Zones/Act9/act9_tiles_2.png" }
+act9_wall = { file = "Zones/Act9/act9_wall.png" }
+aiz = { file = "Zones/Angel Island/aiz.png" }
+aiz10 = { file = "Zones/Angel Island/aiz10.png" }
+aiz2 = { file = "Zones/Angel Island/aiz2.png" }
+aiz3 = { file = "Zones/Angel Island/aiz3.png" }
+aiz35 = { file = "Zones/Angel Island/aiz35.png" }
+aiz38 = { file = "Zones/Angel Island/aiz38.png" }
+aiz4 = { file = "Zones/Angel Island/aiz4.png" }
+aiz5 = { file = "Zones/Angel Island/aiz5.apng" }
+aiz6 = { file = "Zones/Angel Island/aiz6.apng" }
+aiz7 = { file = "Zones/Angel Island/aiz7.png" }
+aiz8 = { file = "Zones/Angel Island/aiz8.png" }
+aiz9 = { file = "Zones/Angel Island/aiz9.png" }
+aiz_decor = { file = "Zones/Angel Island/aiz_decor.png", bbox_mode = "manual", bbox = [48, 80, 63, 153] }
+aiz_decor2 = { file = "Zones/Angel Island/aiz_decor2.png" }
+aiz_fire = { file = "Zones/Angel Island/aiz_fire.apng" }
+aiz_fire2 = { file = "Zones/Angel Island/aiz_fire2.apng" }
+aiz_liana = { file = "Zones/Angel Island/aiz_liana.apng" }
+aiz_tiles2_1 = { file = "Zones/Angel Island/aiz_tiles2_1.png" }
+aiz_tiles2_2 = { file = "Zones/Angel Island/aiz_tiles2_2.png" }
+aiz_tiles_1 = { file = "Zones/Angel Island/aiz_tiles_1.png" }
+aiz_tiles_2 = { file = "Zones/Angel Island/aiz_tiles_2.png" }
+aiz_zipline = { file = "Zones/Angel Island/aiz_zipline.png" }
+am = { file = "Zones/Abadon Mines/am.apng" }
+am2 = { file = "Zones/Abadon Mines/am2.apng" }
+am3 = { file = "Zones/Abadon Mines/am3.png" }
+am_acid = { file = "Zones/Abadon Mines/am_acid.png" }
+am_cloud = { file = "Zones/Abadon Mines/am_cloud.apng", origin = [92, 138], bbox_mode = "manual", bbox = [23, 18, 157, 137] }
+am_collision = { file = "Zones/Abadon Mines/am_collision.png", collision = "precise" }
+am_face = { file = "Zones/Abadon Mines/am_face.png" }
+am_ooh = { file = "Zones/Abadon Mines/am_ooh.png" }
+am_tiles2_1 = { file = "Zones/Abadon Mines/am_tiles2_1.png" }
+am_tiles2_2 = { file = "Zones/Abadon Mines/am_tiles2_2.png" }
+am_tiles2_3 = { file = "Zones/Abadon Mines/am_tiles2_3.png" }
+am_tiles2_4 = { file = "Zones/Abadon Mines/am_tiles2_4.png" }
+am_tiles3_1 = { file = "Zones/Abadon Mines/am_tiles3_1.png" }
+am_tiles3_2 = { file = "Zones/Abadon Mines/am_tiles3_2.png" }
+am_tiles3_3 = { file = "Zones/Abadon Mines/am_tiles3_3.png" }
+am_tiles3_4 = { file = "Zones/Abadon Mines/am_tiles3_4.png" }
+am_tiles_1 = { file = "Zones/Abadon Mines/am_tiles_1.png" }
+am_tiles_2 = { file = "Zones/Abadon Mines/am_tiles_2.png" }
+am_tiles_3 = { file = "Zones/Abadon Mines/am_tiles_3.png" }
+am_tiles_4 = { file = "Zones/Abadon Mines/am_tiles_4.png" }
+amy_attack1 = { file = "Player/Survivors/Amy/amy_attack1.apng", origin = [28, 21], bbox_mode = "manual", bbox = [0, 16, 53, 39] }
+amy_attack2 = { file = "Player/Survivors/Amy/amy_attack2.apng", origin = [20, 35], bbox_mode = "manual", bbox = [7, 18, 31, 58] }
+amy_balancing = { file = "Player/Survivors/Amy/amy_balancing.apng", origin = [20, 21], bbox_mode = "manual", bbox = [9, 2, 29, 39] }
+amy_dead = { file = "Player/Survivors/Amy/amy_dead.apng", origin = [22, 21], bbox_mode = "manual", bbox = [0, 28, 44, 51] }
+amy_emotion1 = { file = "Player/Survivors/Amy/amy_emotion1.apng", origin = [21, 21], bbox_mode = "manual", bbox = [10, 0, 32, 38] }
+amy_emotion2 = { file = "Player/Survivors/Amy/amy_emotion2.apng", origin = [12, 20], bbox_mode = "manual", bbox = [1, 0, 23, 37] }
+amy_emotion3 = { file = "Player/Survivors/Amy/amy_emotion3.apng", origin = [13, 22], bbox_mode = "manual", bbox = [4, 0, 26, 39] }
+amy_fall = { file = "Player/Survivors/Amy/amy_fall.png", origin = [16, 20], bbox_mode = "manual", bbox = [5, 0, 23, 42] }
+amy_hurt = { file = "Player/Survivors/Amy/amy_hurt.png", origin = [11, 18] }
+amy_idle = { file = "Player/Survivors/Amy/amy_idle.apng", origin = [27, 21], bbox_mode = "manual", bbox = [15, 0, 37, 38] }
+amy_jump = { file = "Player/Survivors/Amy/amy_jump.apng", origin = [16, 20], bbox_mode = "manual", bbox = [5, 0, 23, 42] }
+amy_lookdown = { file = "Player/Survivors/Amy/amy_lookdown.apng", origin = [14, 19], bbox_mode = "manual", bbox = [3, 15, 28, 36] }
+amy_lookup = { file = "Player/Survivors/Amy/amy_lookup.png", origin = [13, 20] }
+amy_run = { file = "Player/Survivors/Amy/amy_run.apng", origin = [23, 25], bbox_mode = "manual", bbox = [11, 4, 31, 42] }
+amy_walk = { file = "Player/Survivors/Amy/amy_walk.apng", origin = [21, 21], bbox_mode = "manual", bbox = [10, 2, 29, 38] }
+amy_zipline = { file = "Player/Survivors/Amy/amy_zipline.png", origin = [12, 26] }
+attackgui = { file = "GUI/Screens/attackgui.png" }
+background_test = { file = "Zones/Level1/background_test.apng" }
+badconnection = { file = "GUI/badconnection.apng", ping_pong = "turn_at_last" }
+bigring = { file = "Objects/bigring.apng", origin = [32, 64], bbox_mode = "manual", bbox = [20, 11, 43, 53] }
+bigring_ready = { file = "Objects/bigring_ready.apng", origin = [32, 64], bbox_mode = "manual", bbox = [20, 11, 43, 53] }
+black = { file = "GUI/Screens/black.png", origin = [2, 2] }
+blackring = { file = "Objects/Rings/blackring.apng", bbox_mode = "manual", bbox = [7, 7, 22, 22] }
+blackring_purple = { file = "Objects/Rings/blackring_purple.apng", bbox_mode = "manual", bbox = [7, 7, 22, 22] }
+blackring_sparkle = { file = "Objects/Rings/blackring_sparkle.apng" }
+blackring_sparkle_purple = { file = "Objects/Rings/blackring_sparkle_purple.apng" }
+block = { file = "Objects/Solid/block.png", collision = "precise" }
+block2 = { file = "Objects/Solid/block2.png" }
+blood1 = { file = "Effects/Blood/blood1.apng", origin = [0, 11] }
+blood2 = { file = "Effects/Blood/blood2.apng", origin = [9, 19] }
+blood3 = { file = "Effects/Blood/blood3.apng", origin = [0, 13] }
+bluespheres_floor = { file = "BlueSpheres/bluespheres_floor.png" }
+bluespheres_sphere = { file = "BlueSpheres/bluespheres_sphere.png", origin = [16, 16] }
+boom = { file = "boom.apng", origin = [-129, 31] }
+bspring_left = { file = "Objects/Springs/bspring_left.apng", origin = [44, 44], bbox_mode = "manual", bbox = [11, 10, 43, 43] }
+bspring_right = { file = "Objects/Springs/bspring_right.apng", origin = [44, 44], bbox_mode = "manual", bbox = [11, 10, 43, 43] }
+bspring_up = { file = "Objects/Springs/bspring_up.apng", origin = [0, 32] }
+chaos_attack1 = { file = "Player/Exes/Chaos/chaos_attack1.apng", origin = [16, 27], bbox_mode = "manual", bbox = [19, 2, 72, 44] }
+chaos_attack2 = { file = "Player/Exes/Chaos/chaos_attack2.apng", origin = [21, 11], bbox_mode = "manual", bbox = [0, 0, 25, 30] }
+chaos_balancing = { file = "Player/Exes/Chaos/chaos_balancing.apng", origin = [22, 23], bbox_mode = "manual", bbox = [7, 0, 35, 41], ping_pong = "turn_at_last" }
+chaos_emotion1 = { file = "Player/Exes/Chaos/chaos_emotion1.apng", origin = [16, 27], ping_pong = "repeat_last" }
+chaos_emotion2 = { file = "Player/Exes/Chaos/chaos_emotion2.apng", origin = [31, 29], bbox_mode = "manual", bbox = [20, 8, 43, 46], ping_pong = "turn_at_last" }
+chaos_emotion3 = { file = "Player/Exes/Chaos/chaos_emotion3.apng", origin = [31, 26], bbox_mode = "manual", bbox = [20, 6, 41, 43] }
+chaos_fall = { file = "Player/Exes/Chaos/chaos_fall.apng", origin = [20, 28] }
+chaos_hurt = { file = "Player/Exes/Chaos/chaos_hurt.png", origin = [18, 27] }
+chaos_idle = { file = "Player/Exes/Chaos/chaos_idle.apng", origin = [19, 24] }
+chaos_jump = { file = "Player/Exes/Chaos/chaos_jump.apng", origin = [16, 13] }
+chaos_liquid = { file = "Player/Exes/Chaos/chaos_liquid.apng", origin = [4, 10] }
+chaos_lookdown = { file = "Player/Exes/Chaos/chaos_lookdown.png", origin = [21, 21] }
+chaos_lookup = { file = "Player/Exes/Chaos/chaos_lookup.png", origin = [21, 21] }
+chaos_lost = { file = "Player/Exes/Chaos/chaos_lost.apng", origin = [21, 321] }
+chaos_lost2 = { file = "Player/Exes/Chaos/chaos_lost2.apng", origin = [17, 21] }
+chaos_run = { file = "Player/Exes/Chaos/chaos_run.apng", origin = [21, 20] }
+chaos_sfall = { file = "Player/Exes/Chaos/chaos_sfall.png", origin = [13, 8] }
+chaos_sidle = { file = "Player/Exes/Chaos/chaos_sidle.apng", origin = [16, 21] }
+chaos_sjump = { file = "Player/Exes/Chaos/chaos_sjump.apng", origin = [13, 8] }
+chaos_stransform = { file = "Player/Exes/Chaos/chaos_stransform.apng", origin = [17, 21] }
+chaos_stransformair = { file = "Player/Exes/Chaos/chaos_stransformair.apng", origin = [17, 21] }
+chaos_stuck = { file = "Player/Exes/Chaos/chaos_stuck.apng", origin = [21, 17] }
+chaos_stuck2 = { file = "Player/Exes/Chaos/chaos_stuck2.apng", origin = [11, 25] }
+chaos_stun = { file = "Player/Exes/Chaos/chaos_stun.png", origin = [17, 21] }
+chaos_swalk = { file = "Player/Exes/Chaos/chaos_swalk.apng", origin = [18, 20] }
+chaos_walk = { file = "Player/Exes/Chaos/chaos_walk.apng", origin = [18, 21] }
+chaos_won = { file = "Player/Exes/Chaos/chaos_won.apng", origin = [31, 26] }
+chaos_zipline = { file = "Player/Exes/Chaos/chaos_zipline.png", origin = [17, 30] }
+char_bars = { file = "Lobby/char_bars.apng" }
+char_info = { file = "Lobby/char_info.apng" }
+clock = { file = "GUI/clock.png", origin = [9, 0] }
+clockhand = { file = "GUI/clockhand.png", origin = [1, 6] }
+corpse_amy = { file = "Player/Survivors/Corpses/corpse_amy.apng" }
+corpse_cream = { file = "Player/Survivors/Corpses/corpse_cream.apng", fps = 0 }
+corpse_eggman = { file = "Player/Survivors/Corpses/corpse_eggman.apng" }
+corpse_knux = { file = "Player/Survivors/Corpses/corpse_knux.png" }
+corpse_tails = { file = "Player/Survivors/Corpses/corpse_tails.png" }
+counter = { file = "GUI/counter.apng" }
+counter2 = { file = "GUI/counter2.apng", origin = [14, 14] }
+cream_balancing = { file = "Player/Survivors/Cream/cream_balancing.apng", origin = [21, 14] }
+cream_dead = { file = "Player/Survivors/Cream/cream_dead.apng", origin = [23, 14], bbox_mode = "manual", bbox = [0, 29, 39, 46] }
+cream_emotion1 = { file = "Player/Survivors/Cream/cream_emotion1.apng", origin = [26, 14], bbox_mode = "manual", bbox = [17, 0, 34, 31] }
+cream_emotion2 = { file = "Player/Survivors/Cream/cream_emotion2.apng", origin = [15, 14] }
+cream_emotion3 = { file = "Player/Survivors/Cream/cream_emotion3.apng", origin = [23, 21], bbox_mode = "manual", bbox = [11, 2, 35, 38] }
+cream_fall = { file = "Player/Survivors/Cream/cream_fall.apng", origin = [24, 14], bbox_mode = "manual", bbox = [9, 2, 28, 31] }
+cream_fly = { file = "Player/Survivors/Cream/cream_fly.apng", origin = [25, 22], bbox_mode = "manual", bbox = [11, 15, 29, 42] }
+cream_hurt = { file = "Player/Survivors/Cream/cream_hurt.png", origin = [19, 13] }
+cream_idle = { file = "Player/Survivors/Cream/cream_idle.apng", origin = [24, 29], bbox_mode = "manual", bbox = [9, 15, 31, 46] }
+cream_jump = { file = "Player/Survivors/Cream/cream_jump.apng", origin = [14, 10], bbox_mode = "manual", bbox = [2, 1, 27, 26] }
+cream_lookdown = { file = "Player/Survivors/Cream/cream_lookdown.apng", origin = [15, 15], bbox_mode = "manual", bbox = [3, 7, 27, 32] }
+cream_lookup = { file = "Player/Survivors/Cream/cream_lookup.png", origin = [14, 12] }
+cream_run = { file = "Player/Survivors/Cream/cream_run.apng", origin = [22, 21], bbox_mode = "manual", bbox = [12, 5, 30, 38] }
+cream_srings = { file = "Player/Survivors/Cream/cream_srings.apng", origin = [37, 31], bbox_mode = "manual", bbox = [12, 5, 30, 38] }
+cream_walk = { file = "Player/Survivors/Cream/cream_walk.apng", origin = [23, 21], bbox_mode = "manual", bbox = [14, 6, 30, 38] }
+cream_zipline = { file = "Player/Survivors/Cream/cream_zipline.png", origin = [15, 16] }
+darktower = { file = "Zones/DarkTower/darktower.png" }
+darktower_ball = { file = "Zones/DarkTower/darktower_ball.png", origin = [24, 24], bbox_mode = "manual", bbox = [8, 8, 39, 39] }
+darktower_fog = { file = "Zones/DarkTower/darktower_fog.png" }
+darktower_jumpscare = { file = "Zones/DarkTower/darktower_jumpscare.png" }
+darktower_stalactite = { file = "Zones/DarkTower/darktower_stalactite.png", bbox_mode = "manual", bbox = [19, 10, 59, 72] }
+darktower_stalactite1 = { file = "Zones/DarkTower/darktower_stalactite1.apng", origin = [4, 3] }
+darktower_stalactite2 = { file = "Zones/DarkTower/darktower_stalactite2.apng", origin = [9, 8], fps = 0 }
+darktower_tailsol = { file = "Zones/DarkTower/darktower_tailsol.apng", origin = [19, 18], fps = 0 }
+darktower_tiles_1 = { file = "Zones/DarkTower/darktower_tiles_1.png" }
+darktower_tiles_2 = { file = "Zones/DarkTower/darktower_tiles_2.png" }
+darktower_tiles_3 = { file = "Zones/DarkTower/darktower_tiles_3.png" }
+darktower_tiles_4 = { file = "Zones/DarkTower/darktower_tiles_4.png" }
+deathtp = { file = "Special/deathtp.png", origin = [16, 16] }
+deathtp_point = { file = "Special/deathtp_point.png" }
+deserttown_fog = { file = "Zones/DesertTown/deserttown_fog.png" }
+deserttown_hide = { file = "Zones/DesertTown/deserttown_hide.apng", fps = 0 }
+deserttown_hide2 = { file = "Zones/DesertTown/deserttown_hide2.apng", fps = 0 }
+deserttown_misc = { file = "Zones/DesertTown/deserttown_misc.apng" }
+deserttown_misctiles = { file = "Zones/DesertTown/deserttown_misctiles.apng" }
+deserttown_tiles2_1 = { file = "Zones/DesertTown/deserttown_tiles2_1.png" }
+deserttown_tiles2_2 = { file = "Zones/DesertTown/deserttown_tiles2_2.png" }
+deserttown_tiles3_1 = { file = "Zones/DesertTown/deserttown_tiles3_1.png" }
+deserttown_tiles3_2 = { file = "Zones/DesertTown/deserttown_tiles3_2.png" }
+deserttown_tiles_1 = { file = "Zones/DesertTown/deserttown_tiles_1.png", fps = 0 }
+deserttown_tiles_2 = { file = "Zones/DesertTown/deserttown_tiles_2.png", fps = 0 }
+dot_eggstatue = { file = "Zones/.../dot_eggstatue.apng", origin = [29, 70], bbox_mode = "manual", bbox = [12, 18, 45, 69] }
+dot_fountain = { file = "Zones/.../dot_fountain.apng" }
+dot_fountain2 = { file = "Zones/.../dot_fountain2.png" }
+dot_fountain3 = { file = "Zones/.../dot_fountain3.apng" }
+dot_tiles1_1 = { file = "Zones/.../dot_tiles1_1.png" }
+dot_tiles1_2 = { file = "Zones/.../dot_tiles1_2.png" }
+dot_tiles1_3 = { file = "Zones/.../dot_tiles1_3.png" }
+dot_tiles1_4 = { file = "Zones/.../dot_tiles1_4.png" }
+dot_tiles_1 = { file = "Zones/.../dot_tiles_1.png" }
+dot_tiles_2 = { file = "Zones/.../dot_tiles_2.png" }
+dot_tiles_3 = { file = "Zones/.../dot_tiles_3.png" }
+dot_tiles_4 = { file = "Zones/.../dot_tiles_4.png" }
+dotdotdot = { file = "Zones/.../dotdotdot.apng" }
+dotdotdot2 = { file = "Zones/.../dotdotdot2.apng" }
+dotdotdot3 = { file = "Zones/.../dotdotdot3.apng" }
+dt = { file = "Zones/DesertTown/dt.png" }
+dt2 = { file = "Zones/DesertTown/dt2.png" }
+dt3 = { file = "Zones/DesertTown/dt3.png" }
+dt4 = { file = "Zones/DesertTown/dt4.png", origin = [0, 43] }
+dt5 = { file = "Zones/DesertTown/dt5.png", origin = [0, 43] }
+dt6 = { file = "Zones/DesertTown/dt6.png", origin = [0, 48] }
+dust = { file = "Effects/dust.apng", origin = [8, 22] }
+eamy_attack1 = { file = "Player/Demonized/Amy/eamy_attack1.apng", origin = [31, 20], bbox_mode = "manual", bbox = [3, 15, 56, 38] }
+eamy_attack2 = { file = "Player/Demonized/Amy/eamy_attack2.apng", origin = [19, 35], bbox_mode = "manual", bbox = [7, 17, 30, 58] }
+eamy_balancing = { file = "Player/Demonized/Amy/eamy_balancing.apng", origin = [20, 21], bbox_mode = "manual", bbox = [9, 2, 30, 39] }
+eamy_emotion1 = { file = "Player/Demonized/Amy/eamy_emotion1.apng", origin = [21, 21], bbox_mode = "manual", bbox = [9, 0, 31, 38], ping_pong = "turn_at_last" }
+eamy_emotion2 = { file = "Player/Demonized/Amy/eamy_emotion2.apng", origin = [12, 21] }
+eamy_emotion3 = { file = "Player/Demonized/Amy/eamy_emotion3.apng", origin = [13, 22], bbox_mode = "manual", bbox = [3, 0, 25, 39] }
+eamy_fall = { file = "Player/Demonized/Amy/eamy_fall.png", origin = [17, 22], bbox_mode = "manual", bbox = [5, 0, 23, 42] }
+eamy_hurt = { file = "Player/Demonized/Amy/eamy_hurt.png", origin = [12, 19] }
+eamy_idle = { file = "Player/Demonized/Amy/eamy_idle.apng", origin = [27, 21], bbox_mode = "manual", bbox = [15, 0, 38, 38] }
+eamy_jump = { file = "Player/Demonized/Amy/eamy_jump.apng", origin = [17, 21], bbox_mode = "manual", bbox = [5, 0, 24, 42] }
+eamy_lookdown = { file = "Player/Demonized/Amy/eamy_lookdown.apng", origin = [11, 12], bbox_mode = "manual", bbox = [0, 8, 25, 29] }
+eamy_lookup = { file = "Player/Demonized/Amy/eamy_lookup.png", origin = [13, 21] }
+eamy_run = { file = "Player/Demonized/Amy/eamy_run.apng", origin = [19, 21], bbox_mode = "manual", bbox = [7, 2, 27, 38] }
+eamy_stun = { file = "Player/Demonized/Amy/eamy_stun.png", origin = [8, 19] }
+eamy_walk = { file = "Player/Demonized/Amy/eamy_walk.apng", origin = [19, 21], bbox_mode = "manual", bbox = [7, 2, 25, 38] }
+eamy_zipline = { file = "Player/Demonized/Amy/eamy_zipline.png", origin = [12, 26] }
+ecream_balancing = { file = "Player/Demonized/Cream/ecream_balancing.apng", origin = [22, 14] }
+ecream_emotion1 = { file = "Player/Demonized/Cream/ecream_emotion1.apng", origin = [27, 14], bbox_mode = "manual", bbox = [15, 0, 35, 31] }
+ecream_emotion2 = { file = "Player/Demonized/Cream/ecream_emotion2.apng", origin = [16, 14], bbox_mode = "manual", bbox = [4, 0, 23, 31], ping_pong = "turn_at_last" }
+ecream_emotion3 = { file = "Player/Demonized/Cream/ecream_emotion3.apng", origin = [24, 21], bbox_mode = "manual", bbox = [13, 7, 30, 38] }
+ecream_fall = { file = "Player/Demonized/Cream/ecream_fall.apng", origin = [25, 14], bbox_mode = "manual", bbox = [15, 1, 32, 31] }
+ecream_fly = { file = "Player/Demonized/Cream/ecream_fly.apng", origin = [25, 22], bbox_mode = "manual", bbox = [11, 15, 30, 41] }
+ecream_hurt = { file = "Player/Demonized/Cream/ecream_hurt.png", origin = [19, 13], bbox_mode = "manual", bbox = [10, 4, 27, 34] }
+ecream_idle = { file = "Player/Demonized/Cream/ecream_idle.apng", origin = [25, 29], bbox_mode = "manual", bbox = [9, 14, 32, 46] }
+ecream_jump = { file = "Player/Demonized/Cream/ecream_jump.apng", origin = [14, 10], bbox_mode = "manual", bbox = [15, 5, 32, 37] }
+ecream_lookdown = { file = "Player/Demonized/Cream/ecream_lookdown.apng", origin = [16, 14], bbox_mode = "manual", bbox = [3, 8, 26, 31] }
+ecream_lookup = { file = "Player/Demonized/Cream/ecream_lookup.png", origin = [16, 14], bbox_mode = "manual", bbox = [0, 2, 23, 31] }
+ecream_run = { file = "Player/Demonized/Cream/ecream_run.apng", origin = [22, 22], bbox_mode = "manual", bbox = [12, 6, 29, 38] }
+ecream_srings = { file = "Player/Demonized/Cream/ecream_srings.apng", origin = [37, 31], bbox_mode = "manual", bbox = [12, 6, 29, 38] }
+ecream_stun = { file = "Player/Demonized/Cream/ecream_stun.png", origin = [16, 15], bbox_mode = "manual", bbox = [7, 4, 24, 34] }
+ecream_walk = { file = "Player/Demonized/Cream/ecream_walk.apng", origin = [24, 20], bbox_mode = "manual", bbox = [15, 5, 32, 37] }
+ecream_zipline = { file = "Player/Demonized/Cream/ecream_zipline.png", origin = [15, 14] }
+eegg_balancing = { file = "Player/Demonized/Egg/eegg_balancing.apng", origin = [18, 37], bbox_mode = "manual", bbox = [5, 7, 35, 55] }
+eegg_djump = { file = "Player/Demonized/Egg/eegg_djump.apng", origin = [29, 25], bbox_mode = "manual", bbox = [13, 4, 44, 52] }
+eegg_emotion1 = { file = "Player/Demonized/Egg/eegg_emotion1.apng", origin = [29, 36], bbox_mode = "manual", bbox = [13, 5, 43, 53] }
+eegg_emotion2 = { file = "Player/Demonized/Egg/eegg_emotion2.apng", origin = [25, 38], bbox_mode = "manual", bbox = [9, 6, 39, 54] }
+eegg_emotion3 = { file = "Player/Demonized/Egg/eegg_emotion3.apng", origin = [27, 36], bbox_mode = "manual", bbox = [10, 5, 40, 53], ping_pong = "turn_at_last" }
+eegg_fall = { file = "Player/Demonized/Egg/eegg_fall.png", origin = [25, 31], bbox_mode = "manual", bbox = [2, 7, 32, 55] }
+eegg_hurt = { file = "Player/Demonized/Egg/eegg_hurt.apng", origin = [27, 45], bbox_mode = "manual", bbox = [7, 9, 44, 63] }
+eegg_idle = { file = "Player/Demonized/Egg/eegg_idle.apng", origin = [26, 36], bbox_mode = "manual", bbox = [8, 5, 38, 53] }
+eegg_jump = { file = "Player/Demonized/Egg/eegg_jump.apng", origin = [25, 31], bbox_mode = "manual", bbox = [0, 7, 32, 49] }
+eegg_lookdown = { file = "Player/Demonized/Egg/eegg_lookdown.apng", origin = [24, 36], bbox_mode = "manual", bbox = [2, 7, 32, 55] }
+eegg_lookup = { file = "Player/Demonized/Egg/eegg_lookup.png", origin = [20, 36], bbox_mode = "manual", bbox = [2, 6, 32, 54] }
+eegg_run = { file = "Player/Demonized/Egg/eegg_run.apng", origin = [34, 33], bbox_mode = "manual", bbox = [15, 4, 45, 50] }
+eegg_stun = { file = "Player/Demonized/Egg/eegg_stun.png", origin = [22, 19], bbox_mode = "manual", bbox = [6, 3, 38, 44] }
+eegg_walk = { file = "Player/Demonized/Egg/eegg_walk.apng", origin = [25, 33], bbox_mode = "manual", bbox = [8, 4, 39, 50] }
+eegg_zipline = { file = "Player/Demonized/Egg/eegg_zipline.png", origin = [18, 31], bbox_mode = "manual", bbox = [4, 0, 34, 48] }
+egg_balancing = { file = "Player/Survivors/Egg/egg_balancing.apng", origin = [18, 37], bbox_mode = "manual", bbox = [5, 7, 35, 55] }
+egg_dead = { file = "Player/Survivors/Egg/egg_dead.apng", origin = [34, 36], bbox_mode = "manual", bbox = [0, 31, 63, 57] }
+egg_djump = { file = "Player/Survivors/Egg/egg_djump.apng", origin = [29, 30], bbox_mode = "manual", bbox = [13, 9, 44, 56] }
+egg_emotion1 = { file = "Player/Survivors/Egg/egg_emotion1.apng", origin = [29, 36], bbox_mode = "manual", bbox = [13, 8, 43, 56] }
+egg_emotion2 = { file = "Player/Survivors/Egg/egg_emotion2.apng", origin = [25, 38], bbox_mode = "manual", bbox = [9, 7, 39, 55] }
+egg_emotion3 = { file = "Player/Survivors/Egg/egg_emotion3.apng", origin = [27, 36], bbox_mode = "manual", bbox = [10, 5, 40, 53], ping_pong = "turn_at_last" }
+egg_fall = { file = "Player/Survivors/Egg/egg_fall.png", origin = [25, 31], bbox_mode = "manual", bbox = [6, 13, 39, 53] }
+egg_hurt = { file = "Player/Survivors/Egg/egg_hurt.apng", origin = [27, 45], bbox_mode = "manual", bbox = [7, 9, 45, 63] }
+egg_idle = { file = "Player/Survivors/Egg/egg_idle.apng", origin = [26, 36], bbox_mode = "manual", bbox = [8, 5, 38, 53] }
+egg_jump = { file = "Player/Survivors/Egg/egg_jump.apng", origin = [24, 28], bbox_mode = "manual", bbox = [0, 7, 33, 49] }
+egg_lookdown = { file = "Player/Survivors/Egg/egg_lookdown.apng", origin = [24, 36], bbox_mode = "manual", bbox = [5, 7, 35, 55] }
+egg_lookup = { file = "Player/Survivors/Egg/egg_lookup.png", origin = [18, 36], bbox_mode = "manual", bbox = [0, 5, 30, 53] }
+egg_run = { file = "Player/Survivors/Egg/egg_run.apng", origin = [43, 45], bbox_mode = "manual", bbox = [22, 16, 54, 63] }
+egg_walk = { file = "Player/Survivors/Egg/egg_walk.apng", origin = [28, 39], bbox_mode = "manual", bbox = [11, 10, 42, 56] }
+egg_zipline = { file = "Player/Survivors/Egg/egg_zipline.png", origin = [18, 31], bbox_mode = "manual", bbox = [3, 9, 36, 49] }
+eggpack = { file = "Effects/eggpack.apng", origin = [16, 15] }
+eggtrack = { file = "Player/Survivors/Egg/eggtrack.png", origin = [12, 8] }
+eggtrack_destroy = { file = "Player/Survivors/Egg/eggtrack_destroy.apng", origin = [12, 8] }
+eknux_attack1 = { file = "Player/Demonized/Knuckles/eknux_attack1.apng", origin = [16, 21], bbox_mode = "manual", bbox = [16, 13, 45, 37] }
+eknux_attack2 = { file = "Player/Demonized/Knuckles/eknux_attack2.apng", origin = [19, 26], bbox_mode = "manual", bbox = [22, -3, 42, 45] }
+eknux_balancing = { file = "Player/Demonized/Knuckles/eknux_balancing.apng", origin = [43, 29] }
+eknux_emotion1 = { file = "Player/Demonized/Knuckles/eknux_emotion1.apng", origin = [27, 22], bbox_mode = "manual", bbox = [12, 0, 33, 39] }
+eknux_emotion2 = { file = "Player/Demonized/Knuckles/eknux_emotion2.apng", origin = [17, 22], bbox_mode = "manual", bbox = [2, 0, 25, 39], ping_pong = "turn_at_last" }
+eknux_emotion3 = { file = "Player/Demonized/Knuckles/eknux_emotion3.apng", origin = [16, 22] }
+eknux_fall = { file = "Player/Demonized/Knuckles/eknux_fall.apng", origin = [24, 20], bbox_mode = "manual", bbox = [12, 0, 33, 46], fps = 0 }
+eknux_glide = { file = "Player/Demonized/Knuckles/eknux_glide.apng", origin = [24, 12] }
+eknux_hurt = { file = "Player/Demonized/Knuckles/eknux_hurt.png", origin = [14, 21] }
+eknux_idle = { file = "Player/Demonized/Knuckles/eknux_idle.apng", origin = [16, 22], bbox_mode = "manual", bbox = [0, 0, 27, 39] }
+eknux_jump = { file = "Player/Demonized/Knuckles/eknux_jump.apng", origin = [15, 12] }
+eknux_lookdown = { file = "Player/Demonized/Knuckles/eknux_lookdown.apng", origin = [14, 14] }
+eknux_lookup = { file = "Player/Demonized/Knuckles/eknux_lookup.apng", origin = [14, 21] }
+eknux_run = { file = "Player/Demonized/Knuckles/eknux_run.apng", origin = [21, 19], bbox_mode = "manual", bbox = [9, 0, 32, 36] }
+eknux_stuck = { file = "Player/Demonized/Knuckles/eknux_stuck.png", origin = [17, 19] }
+eknux_stun = { file = "Player/Demonized/Knuckles/eknux_stun.apng", origin = [18, 7] }
+eknux_walk = { file = "Player/Demonized/Knuckles/eknux_walk.apng", origin = [22, 19], bbox_mode = "manual", bbox = [10, 0, 32, 36] }
+eknux_zipline = { file = "Player/Demonized/Knuckles/eknux_zipline.png", origin = [15, 29] }
+electroshield = { file = "Player/Survivors/Egg/electroshield.apng", origin = [24, 24] }
+eroseheart = { file = "Effects/eroseheart.apng", origin = [8, 7] }
+esally_attack = { file = "Player/Demonized/Sally/esally_attack.apng", origin = [16, 25], bbox_mode = "manual", bbox = [8, 16, 35, 46] }
+esally_balancing = { file = "Player/Demonized/Sally/esally_balancing.apng", origin = [24, 25], bbox_mode = "manual", bbox = [12, 3, 33, 42] }
+esally_emotion1 = { file = "Player/Demonized/Sally/esally_emotion1.apng", origin = [12, 24], bbox_mode = "manual", bbox = [0, 0, 21, 41] }
+esally_emotion2 = { file = "Player/Demonized/Sally/esally_emotion2.apng", origin = [13, 24], bbox_mode = "manual", bbox = [0, 0, 21, 41], ping_pong = "turn_at_last" }
+esally_emotion3 = { file = "Player/Demonized/Sally/esally_emotion3.apng", origin = [12, 25], bbox_mode = "manual", bbox = [1, 0, 22, 42], ping_pong = "turn_at_last" }
+esally_fall = { file = "Player/Demonized/Sally/esally_fall.png", origin = [18, 26], bbox_mode = "manual", bbox = [7, 3, 26, 47] }
+esally_hurt = { file = "Player/Demonized/Sally/esally_hurt.png", origin = [12, 23], bbox_mode = "manual", bbox = [3, 2, 21, 40] }
+esally_idle = { file = "Player/Demonized/Sally/esally_idle.apng", origin = [12, 30], bbox_mode = "manual", bbox = [0, 5, 21, 47] }
+esally_jump = { file = "Player/Demonized/Sally/esally_jump.apng", origin = [18, 22], bbox_mode = "manual", bbox = [7, 2, 26, 45] }
+esally_lookdown = { file = "Player/Demonized/Sally/esally_lookdown.apng", origin = [15, 25], bbox_mode = "manual", bbox = [0, 16, 28, 42] }
+esally_lookup = { file = "Player/Demonized/Sally/esally_lookup.png", origin = [12, 25] }
+esally_run = { file = "Player/Demonized/Sally/esally_run.apng", origin = [18, 18], bbox_mode = "manual", bbox = [8, 1, 26, 35] }
+esally_slide = { file = "Player/Demonized/Sally/esally_slide.png", origin = [19, 13], bbox_mode = "manual", bbox = [0, 12, 36, 31] }
+esally_stun = { file = "Player/Demonized/Sally/esally_stun.apng", origin = [14, 23], bbox_mode = "manual", bbox = [4, 4, 25, 40] }
+esally_walk = { file = "Player/Demonized/Sally/esally_walk.apng", origin = [18, 25], bbox_mode = "manual", bbox = [7, 4, 25, 42] }
+esally_zipline = { file = "Player/Demonized/Sally/esally_zipline.png", origin = [12, 24] }
+etails_attack1 = { file = "Player/Demonized/Tails/etails_attack1.png", origin = [31, 14], bbox_mode = "manual", bbox = [17, 0, 37, 31] }
+etails_balancing = { file = "Player/Demonized/Tails/etails_balancing.apng", origin = [19, 13], bbox_mode = "manual", bbox = [9, 0, 29, 30], ping_pong = "turn_at_last" }
+etails_emotion1 = { file = "Player/Demonized/Tails/etails_emotion1.apng", origin = [13, 14], bbox_mode = "manual", bbox = [3, 0, 20, 31], ping_pong = "turn_at_last" }
+etails_emotion2 = { file = "Player/Demonized/Tails/etails_emotion2.apng", origin = [19, 14], bbox_mode = "manual", bbox = [8, 0, 28, 31], ping_pong = "turn_at_last" }
+etails_emotion3 = { file = "Player/Demonized/Tails/etails_emotion3.apng", origin = [12, 13], bbox_mode = "manual", bbox = [2, 0, 20, 30] }
+etails_fall = { file = "Player/Demonized/Tails/etails_fall.apng", origin = [15, 13] }
+etails_fly = { file = "Player/Demonized/Tails/etails_fly.apng", origin = [20, 17], bbox_mode = "manual", bbox = [3, 5, 34, 27] }
+etails_hurt = { file = "Player/Demonized/Tails/etails_hurt.png", origin = [15, 17] }
+etails_idle = { file = "Player/Demonized/Tails/etails_idle.apng", origin = [22, 14], bbox_mode = "manual", bbox = [11, 0, 31, 31] }
+etails_jump = { file = "Player/Demonized/Tails/etails_jump.apng", origin = [14, 8] }
+etails_lookdown = { file = "Player/Demonized/Tails/etails_lookdown.png", origin = [13, 13] }
+etails_lookup = { file = "Player/Demonized/Tails/etails_lookup.png", origin = [13, 13] }
+etails_run = { file = "Player/Demonized/Tails/etails_run.apng", origin = [26, 14], bbox_mode = "manual", bbox = [13, 0, 32, 31] }
+etails_stun = { file = "Player/Demonized/Tails/etails_stun.png", origin = [19, 15] }
+etails_tail1 = { file = "Player/Demonized/Tails/etails_tail1.apng", origin = [35, 8] }
+etails_tail2 = { file = "Player/Demonized/Tails/etails_tail2.apng", origin = [28, 10] }
+etails_walk = { file = "Player/Demonized/Tails/etails_walk.apng", origin = [26, 14], bbox_mode = "manual", bbox = [16, 0, 32, 31] }
+etails_zipline = { file = "Player/Demonized/Tails/etails_zipline.png", origin = [27, 16] }
+exe_attack1 = { file = "Player/Exes/Original/exe_attack1.apng", origin = [16, 26], bbox_mode = "manual", bbox = [16, 6, 44, 43] }
+exe_attack2 = { file = "Player/Exes/Original/exe_attack2.apng", origin = [22, 26], bbox_mode = "manual", bbox = [15, 7, 46, 44] }
+exe_balancing = { file = "Player/Exes/Original/exe_balancing.apng", origin = [25, 22], bbox_mode = "manual", bbox = [15, 2, 35, 39] }
+exe_emotion = { file = "Player/Exes/Original/exe_emotion.apng", origin = [16, 19], ping_pong = "turn_at_last" }
+exe_emotion2 = { file = "Player/Exes/Original/exe_emotion2.apng", origin = [24, 25], bbox_mode = "manual", bbox = [15, 10, 33, 43] }
+exe_emotion3 = { file = "Player/Exes/Original/exe_emotion3.apng", origin = [34, 27], bbox_mode = "manual", bbox = [23, 8, 45, 46], ping_pong = "turn_at_last" }
+exe_fall = { file = "Player/Exes/Original/exe_fall.apng", origin = [21, 29], bbox_mode = "manual", bbox = [7, 12, 30, 50] }
+exe_hurt = { file = "Player/Exes/Original/exe_hurt.apng", origin = [15, 21], bbox_mode = "manual", bbox = [1, 4, 45, 47] }
+exe_idle = { file = "Player/Exes/Original/exe_idle.apng", origin = [18, 26] }
+exe_invis_balancing = { file = "Player/Exes/Original/exe_invis_balancing.apng", origin = [25, 22], bbox_mode = "manual", bbox = [15, 2, 35, 39] }
+exe_invis_emotion = { file = "Player/Exes/Original/exe_invis_emotion.apng", origin = [16, 19] }
+exe_invis_fall = { file = "Player/Exes/Original/exe_invis_fall.png", origin = [26, 33] }
+exe_invis_hurt = { file = "Player/Exes/Original/exe_invis_hurt.apng", origin = [13, 20] }
+exe_invis_idle = { file = "Player/Exes/Original/exe_invis_idle.png", origin = [16, 21] }
+exe_invis_jump = { file = "Player/Exes/Original/exe_invis_jump.apng", origin = [16, 11] }
+exe_invis_lookdown = { file = "Player/Exes/Original/exe_invis_lookdown.png", origin = [24, 21] }
+exe_invis_lookup = { file = "Player/Exes/Original/exe_invis_lookup.png", origin = [16, 21] }
+exe_invis_run = { file = "Player/Exes/Original/exe_invis_run.apng", origin = [28, 23] }
+exe_invis_walk = { file = "Player/Exes/Original/exe_invis_walk.apng", origin = [22, 27] }
+exe_invis_zipline = { file = "Player/Exes/Original/exe_invis_zipline.png", origin = [16, 27] }
+exe_jump = { file = "Player/Exes/Original/exe_jump.apng", origin = [16, 11] }
+exe_lookdown = { file = "Player/Exes/Original/exe_lookdown.png", origin = [19, 21] }
+exe_lookup = { file = "Player/Exes/Original/exe_lookup.png", origin = [16, 21] }
+exe_lost = { file = "Player/Exes/Original/exe_lost.apng", origin = [15, 23] }
+exe_run = { file = "Player/Exes/Original/exe_run.apng", origin = [28, 21], bbox_mode = "manual", bbox = [14, 0, 38, 38] }
+exe_shocked = { file = "Player/Exes/Original/exe_shocked.apng", origin = [17, 16] }
+exe_walk = { file = "Player/Exes/Original/exe_walk.apng", origin = [22, 27], bbox_mode = "manual", bbox = [8, 0, 31, 44] }
+exe_won = { file = "Player/Exes/Original/exe_won.apng", origin = [16, 19], ping_pong = "turn_at_last" }
+exe_zipline = { file = "Player/Exes/Original/exe_zipline.png", origin = [17, 30] }
+exeller_attack1 = { file = "Player/Exes/Exeller/exeller_attack1.apng", origin = [16, 21], bbox_mode = "manual", bbox = [16, 14, 43, 38] }
+exeller_attack2 = { file = "Player/Exes/Exeller/exeller_attack2.apng", origin = [29, 19], bbox_mode = "manual", bbox = [10, 15, 48, 37] }
+exeller_balancing = { file = "Player/Exes/Exeller/exeller_balancing.apng", origin = [24, 21], bbox_mode = "manual", bbox = [12, 0, 35, 37] }
+exeller_clone = { file = "Player/Exes/Exeller/exeller_clone.apng", origin = [17, 20], bbox_mode = "manual", bbox = [9, 0, 23, 37] }
+exeller_clone2 = { file = "Player/Exes/Exeller/exeller_clone2.apng", origin = [17, 23], bbox_mode = "manual", bbox = [9, 0, 24, 42] }
+exeller_clonearrow = { file = "Player/Exes/Exeller/exeller_clonearrow.apng", origin = [4, 4], fps = 0 }
+exeller_clonetracker = { file = "GUI/Player/exeller_clonetracker.png", origin = [6, 6] }
+exeller_clonetracker2 = { file = "GUI/Player/exeller_clonetracker2.png", origin = [6, 6] }
+exeller_emotion = { file = "Player/Exes/Exeller/exeller_emotion.apng", origin = [15, 29] }
+exeller_emotion2 = { file = "Player/Exes/Exeller/exeller_emotion2.apng", origin = [39, 34], bbox_mode = "manual", bbox = [24, 12, 48, 54], ping_pong = "turn_at_last" }
+exeller_emotion3 = { file = "Player/Exes/Exeller/exeller_emotion3.apng", origin = [39, 21], bbox_mode = "manual", bbox = [24, 12, 48, 54] }
+exeller_fall = { file = "Player/Exes/Exeller/exeller_fall.apng", origin = [16, 29] }
+exeller_hurt = { file = "Player/Exes/Exeller/exeller_hurt.png", origin = [15, 21] }
+exeller_idle = { file = "Player/Exes/Exeller/exeller_idle.apng", origin = [28, 24] }
+exeller_jump = { file = "Player/Exes/Exeller/exeller_jump.apng", origin = [15, 21] }
+exeller_lookdown = { file = "Player/Exes/Exeller/exeller_lookdown.apng", origin = [20, 21] }
+exeller_lookup = { file = "Player/Exes/Exeller/exeller_lookup.apng", origin = [20, 21] }
+exeller_lost = { file = "Player/Exes/Exeller/exeller_lost.apng", origin = [18, 20] }
+exeller_lost2 = { file = "Player/Exes/Exeller/exeller_lost2.apng", origin = [20, 21] }
+exeller_run = { file = "Player/Exes/Exeller/exeller_run.apng", origin = [20, 21] }
+exeller_shocked = { file = "Player/Exes/Exeller/exeller_shocked.apng", origin = [15, 21] }
+exeller_walk = { file = "Player/Exes/Exeller/exeller_walk.apng", origin = [24, 21] }
+exeller_won = { file = "Player/Exes/Exeller/exeller_won.apng", origin = [15, 29] }
+exeller_zipline = { file = "Player/Exes/Exeller/exeller_zipline.png", origin = [19, 29] }
+exespawn = { file = "Special/exespawn.png", origin = [17, 32] }
+exetior_attack1 = { file = "Player/Exes/Erector/exetior_attack1.apng", origin = [17, 26], bbox_mode = "manual", bbox = [14, 3, 43, 44] }
+exetior_attack2 = { file = "Player/Exes/Erector/exetior_attack2.apng", origin = [28, 16], bbox_mode = "manual", bbox = [9, 16, 47, 38] }
+exetior_balancing = { file = "Player/Exes/Erector/exetior_balancing.apng", origin = [19, 25], bbox_mode = "manual", bbox = [4, 4, 30, 42] }
+exetior_emotion = { file = "Player/Exes/Erector/exetior_emotion.apng", origin = [20, 18], bbox_mode = "manual", bbox = [9, 3, 27, 38], ping_pong = "turn_at_last" }
+exetior_emotion2 = { file = "Player/Exes/Erector/exetior_emotion2.apng", origin = [32, 25], bbox_mode = "manual", bbox = [19, 5, 44, 42], ping_pong = "turn_at_last" }
+exetior_emotion3 = { file = "Player/Exes/Erector/exetior_emotion3.apng", origin = [21, 22], bbox_mode = "manual", bbox = [6, 1, 35, 39] }
+exetior_fall = { file = "Player/Exes/Erector/exetior_fall.apng", origin = [20, 18] }
+exetior_hurt = { file = "Player/Exes/Erector/exetior_hurt.png", origin = [17, 23] }
+exetior_idle = { file = "Player/Exes/Erector/exetior_idle.apng", origin = [31, 44] }
+exetior_jump = { file = "Player/Exes/Erector/exetior_jump.apng", origin = [14, 11] }
+exetior_lookdown = { file = "Player/Exes/Erector/exetior_lookdown.png", origin = [21, 22] }
+exetior_lookup = { file = "Player/Exes/Erector/exetior_lookup.apng", origin = [21, 22] }
+exetior_lost = { file = "Player/Exes/Erector/exetior_lost.apng", origin = [19, 21] }
+exetior_run = { file = "Player/Exes/Erector/exetior_run.apng", origin = [18, 19] }
+exetior_shocked = { file = "Player/Exes/Erector/exetior_shocked.apng", origin = [17, 21], ping_pong = "turn_at_last" }
+exetior_stomp = { file = "Player/Exes/Erector/exetior_stomp.apng", origin = [10, 10] }
+exetior_stompballs = { file = "Player/Exes/Erector/exetior_stompballs.apng", origin = [23, 19], bbox_mode = "manual", bbox = [5, 5, 26, 24] }
+exetior_stompland = { file = "Player/Exes/Erector/exetior_stompland.apng", origin = [17, 33], bbox_mode = "manual", bbox = [0, 9, 34, 38] }
+exetior_walk = { file = "Player/Exes/Erector/exetior_walk.apng", origin = [21, 27] }
+exetior_won = { file = "Player/Exes/Erector/exetior_won.apng", origin = [20, 18], ping_pong = "turn_at_last" }
+exetior_zipline = { file = "Player/Exes/Erector/exetior_zipline.png", origin = [17, 30] }
+explosion = { file = "Effects/explosion.apng", origin = [19, 19] }
+fart_dummy = { file = "Zones/Fart Zone/fart_dummy.apng", origin = [18, 31], fps = 0 }
+fartzone = { file = "Zones/Fart Zone/fartzone.png" }
+fire = { file = "Effects/fire.apng" }
+frozen = { file = "GUI/Player/frozen.png", origin = [7, 32] }
+gameover = { file = "GUI/Screens/gameover.apng", origin = [240, 135], ping_pong = "turn_at_last" }
+ghz_electroshock = { file = "Zones/GreenHill/ghz_electroshock.apng" }
+ghz_palm = { file = "Zones/GreenHill/ghz_palm.apng" }
+ghz_rain = { file = "Zones/GreenHill/ghz_rain.png", origin = [6, 0] }
+ghz_slope1 = { file = "Zones/GreenHill/ghz_slope1.png", collision = "precise" }
+ghz_slope2 = { file = "Zones/GreenHill/ghz_slope2.png", collision = "precise" }
+ghz_slope3 = { file = "Zones/GreenHill/ghz_slope3.png", collision = "precise" }
+ghz_slope4 = { file = "Zones/GreenHill/ghz_slope4.png", collision = "precise" }
+ghz_slope5 = { file = "Zones/GreenHill/ghz_slope5.png", collision = "precise" }
+ghz_tiles2_1 = { file = "Zones/GreenHill/ghz_tiles2_1.png" }
+ghz_tiles2_2 = { file = "Zones/GreenHill/ghz_tiles2_2.png" }
+ghz_tiles2_3 = { file = "Zones/GreenHill/ghz_tiles2_3.png" }
+ghz_tiles2_4 = { file = "Zones/GreenHill/ghz_tiles2_4.png" }
+ghz_tiles_1 = { file = "Zones/GreenHill/ghz_tiles_1.png" }
+ghz_tiles_2 = { file = "Zones/GreenHill/ghz_tiles_2.png" }
+ghz_tiles_3 = { file = "Zones/GreenHill/ghz_tiles_3.png" }
+ghz_tiles_4 = { file = "Zones/GreenHill/ghz_tiles_4.png" }
+ghz_waterfall = { file = "Zones/GreenHill/ghz_waterfall.apng" }
+ghz_waterfall2 = { file = "Zones/GreenHill/ghz_waterfall2.apng" }
+ghz_wave = { file = "Zones/GreenHill/ghz_wave.apng" }
+goodperson = { file = "GUI/Player/goodperson.apng", origin = [122, 142] }
+goodperson_old = { file = "GUI/Player/goodperson_old.apng", origin = [122, 142] }
+green = { file = "Special/green.png", origin = [17, 32] }
+green293 = { file = "Special/green293.png" }
+greenhill = { file = "Zones/GreenHill/greenhill.apng" }
+greenhill2 = { file = "Zones/GreenHill/greenhill2.png" }
+greenhill3 = { file = "Zones/GreenHill/greenhill3.apng" }
+greenhill4 = { file = "Zones/GreenHill/greenhill4.apng" }
+greenhill5 = { file = "Zones/GreenHill/greenhill5.apng" }
+greenhill6 = { file = "Zones/GreenHill/greenhill6.png" }
+gui_amyattack = { file = "GUI/Recharge/gui_amyattack.png", origin = [0, 4] }
+gui_amyhjump = { file = "GUI/Recharge/gui_amyhjump.png", origin = [0, 1] }
+gui_chaosattack = { file = "GUI/Recharge/gui_chaosattack.apng", origin = [0, 2], fps = 0 }
+gui_chaosslime = { file = "GUI/Recharge/gui_chaosslime.png", origin = [-7, -5] }
+gui_chaoswalldash = { file = "GUI/Recharge/gui_chaoswalldash.apng", origin = [0, 2], fps = 0 }
+gui_creamdash = { file = "GUI/Recharge/gui_creamdash.png", origin = [-1, 0] }
+gui_creamfly = { file = "GUI/Recharge/gui_creamfly.apng", origin = [3, 2] }
+gui_creamrings = { file = "GUI/Recharge/gui_creamrings.apng", origin = [-1, 1] }
+gui_eggdjump = { file = "GUI/Recharge/gui_eggdjump.png", origin = [-2, 0] }
+gui_eggshield = { file = "GUI/Recharge/gui_eggshield.png", origin = [-1, 0] }
+gui_eggtrack = { file = "GUI/Recharge/gui_eggtrack.png", origin = [2, 4] }
+gui_emotion_anger = { file = "GUI/Recharge/gui_emotion_anger.png", origin = [5, 5] }
+gui_emotion_happiness = { file = "GUI/Recharge/gui_emotion_happiness.png", origin = [5, 5] }
+gui_emotion_misery = { file = "GUI/Recharge/gui_emotion_misery.png", origin = [5, 5] }
+gui_exeattack = { file = "GUI/Recharge/gui_exeattack.png" }
+gui_exefreejump = { file = "GUI/Recharge/gui_exefreejump.png" }
+gui_exeinvisability = { file = "GUI/Recharge/gui_exeinvisability.png" }
+gui_exellerclone = { file = "GUI/Recharge/gui_exellerclone.png", origin = [-5, 0] }
+gui_exellerclone2 = { file = "GUI/Recharge/gui_exellerclone2.png", origin = [-7, -3] }
+gui_exetiorattack = { file = "GUI/Recharge/gui_exetiorattack.apng" }
+gui_exetiorring = { file = "GUI/Recharge/gui_exetiorring.png", origin = [-5, -2] }
+gui_hint_directions = { file = "GUI/Recharge/gui_hint_directions.apng", origin = [0, 3], fps = 0 }
+gui_knuxattack = { file = "GUI/Recharge/gui_knuxattack.png", origin = [-6, 0] }
+gui_knuxglide = { file = "GUI/Recharge/gui_knuxglide.apng", origin = [-3, 0] }
+gui_sallyattack = { file = "GUI/Recharge/gui_sallyattack.apng" }
+gui_sallyshield = { file = "GUI/Recharge/gui_sallyshield.apng" }
+gui_tailsattack = { file = "GUI/Recharge/gui_tailsattack.png" }
+gui_tailsfly = { file = "GUI/Recharge/gui_tailsfly.apng" }
+hd = { file = "Zones/HauntDream/hd.png" }
+hd2 = { file = "Zones/HauntDream/hd2.png" }
+hd3 = { file = "Zones/HauntDream/hd3.png" }
+hd4 = { file = "Zones/HauntDream/hd4.png" }
+hd_colliison = { file = "Zones/HauntDream/hd_colliison.png", collision = "precise" }
+hd_crystal = { file = "Zones/HauntDream/hd_crystal.apng", origin = [12, 12], fps = 0 }
+hd_crystalweb = { file = "Zones/HauntDream/hd_crystalweb.png", origin = [42, 39] }
+hd_door = { file = "Zones/HauntDream/hd_door.png" }
+hd_door2 = { file = "Zones/HauntDream/hd_door2.png" }
+hd_hide = { file = "Zones/HauntDream/hd_hide.apng", bbox_mode = "manual", bbox = [13, 23, 50, 64] }
+hd_spring = { file = "Zones/HauntDream/hd_spring.apng", bbox_mode = "manual", bbox = [0, 16, 31, 32], fps = 0 }
+hd_tiles2_1 = { file = "Zones/HauntDream/hd_tiles2_1.png" }
+hd_tiles2_2 = { file = "Zones/HauntDream/hd_tiles2_2.png" }
+hd_tiles2_3 = { file = "Zones/HauntDream/hd_tiles2_3.png" }
+hd_tiles2_4 = { file = "Zones/HauntDream/hd_tiles2_4.png" }
+hd_tiles_1 = { file = "Zones/HauntDream/hd_tiles_1.png" }
+hd_tiles_2 = { file = "Zones/HauntDream/hd_tiles_2.png" }
+hd_tiles_3 = { file = "Zones/HauntDream/hd_tiles_3.png" }
+hd_tiles_4 = { file = "Zones/HauntDream/hd_tiles_4.png" }
+heal = { file = "GUI/heal.apng", origin = [14, 25] }
+heal_part = { file = "Effects/heal_part.apng", origin = [3, 3] }
+heathaze_noise = { file = "Effects/heathaze_noise.png" }
+hidegui = { file = "GUI/Screens/hidegui.png" }
+hn2 = { file = "Zones/HideAndSeek2/hn2.png" }
+hn22 = { file = "Zones/HideAndSeek2/hn22.png" }
+hp = { file = "GUI/Player/hp.apng", origin = [9, 18] }
+hp_rr = { file = "GUI/Player/hp_rr.apng", origin = [9, 18] }
+hs2_box = { file = "Zones/HideAndSeek2/hs2_box.png" }
+hs2_left = { file = "Zones/HideAndSeek2/hs2_left.png" }
+hs2_platform = { file = "Zones/HideAndSeek2/hs2_platform.png" }
+hs2_right = { file = "Zones/HideAndSeek2/hs2_right.png" }
+hs2_slope1 = { file = "Zones/HideAndSeek2/hs2_slope1.png", collision = "precise" }
+hs2_slope2 = { file = "Zones/HideAndSeek2/hs2_slope2.png", collision = "precise" }
+hs2_solid = { file = "Zones/HideAndSeek2/hs2_solid.png" }
+hs2_solid2 = { file = "Zones/HideAndSeek2/hs2_solid2.png" }
+hs2_tiles_1 = { file = "Zones/HideAndSeek2/hs2_tiles_1.png" }
+hs2_tiles_2 = { file = "Zones/HideAndSeek2/hs2_tiles_2.png" }
+hs2_tiles_3 = { file = "Zones/HideAndSeek2/hs2_tiles_3.png" }
+hs2_tiles_4 = { file = "Zones/HideAndSeek2/hs2_tiles_4.png" }
+hud = { file = "GUI/hud.apng" }
+indicator = { file = "GUI/Player/indicator.png", origin = [0, 8] }
+indicator2 = { file = "GUI/Player/indicator2.png", origin = [4, 4] }
+indicator3 = { file = "GUI/Player/indicator3.png", origin = [7, 6] }
+kindnfair_slope1 = { file = "Zones/KindAndFair/kindnfair_slope1.png", collision = "precise" }
+kindnfair_slope2 = { file = "Zones/KindAndFair/kindnfair_slope2.png", collision = "precise" }
+kindnfair_speedbox = { file = "Zones/KindAndFair/kindnfair_speedbox.apng", fps = 0 }
+kindnfair_tiles_1 = { file = "Zones/KindAndFair/kindnfair_tiles_1.png" }
+kindnfair_tiles_2 = { file = "Zones/KindAndFair/kindnfair_tiles_2.png" }
+kindnfair_tiles_3 = { file = "Zones/KindAndFair/kindnfair_tiles_3.png" }
+kindnfair_tiles_4 = { file = "Zones/KindAndFair/kindnfair_tiles_4.png" }
+knf = { file = "Zones/KindAndFair/knf.png" }
+knf2 = { file = "Zones/KindAndFair/knf2.png" }
+knf3 = { file = "Zones/KindAndFair/knf3.png" }
+knf4 = { file = "Zones/KindAndFair/knf4.png" }
+knf5 = { file = "Zones/KindAndFair/knf5.png" }
+knf6 = { file = "Zones/KindAndFair/knf6.png" }
+knux_attack1 = { file = "Player/Survivors/Knuckles/knux_attack1.apng", origin = [16, 21], bbox_mode = "manual", bbox = [26, 23, 55, 47] }
+knux_attack2 = { file = "Player/Survivors/Knuckles/knux_attack2.apng", origin = [19, 26], bbox_mode = "manual", bbox = [27, 5, 50, 55] }
+knux_balancing = { file = "Player/Survivors/Knuckles/knux_balancing.apng", origin = [43, 29] }
+knux_dead = { file = "Player/Survivors/Knuckles/knux_dead.apng", origin = [22, 22], bbox_mode = "manual", bbox = [0, 24, 39, 44] }
+knux_emotion1 = { file = "Player/Survivors/Knuckles/knux_emotion1.apng", origin = [27, 22], bbox_mode = "manual", bbox = [13, 0, 35, 39] }
+knux_emotion2 = { file = "Player/Survivors/Knuckles/knux_emotion2.apng", origin = [17, 22], bbox_mode = "manual", bbox = [2, 0, 23, 39], ping_pong = "turn_at_last" }
+knux_emotion3 = { file = "Player/Survivors/Knuckles/knux_emotion3.apng", origin = [16, 22], bbox_mode = "manual", bbox = [1, 0, 23, 39] }
+knux_fall = { file = "Player/Survivors/Knuckles/knux_fall.apng", origin = [21, 20], bbox_mode = "manual", bbox = [9, 0, 30, 44] }
+knux_glide = { file = "Player/Survivors/Knuckles/knux_glide.apng", origin = [26, 12] }
+knux_hurt = { file = "Player/Survivors/Knuckles/knux_hurt.png", origin = [14, 21] }
+knux_idle = { file = "Player/Survivors/Knuckles/knux_idle.apng", origin = [16, 22], bbox_mode = "manual", bbox = [0, 0, 27, 39] }
+knux_jump = { file = "Player/Survivors/Knuckles/knux_jump.apng", origin = [15, 12] }
+knux_lookdown = { file = "Player/Survivors/Knuckles/knux_lookdown.apng", origin = [17, 22], bbox_mode = "manual", bbox = [3, 16, 31, 39] }
+knux_lookup = { file = "Player/Survivors/Knuckles/knux_lookup.apng", origin = [14, 21] }
+knux_marijuna = { file = "Zones/Marijuna/knux_marijuna.png", origin = [14, 22] }
+knux_run = { file = "Player/Survivors/Knuckles/knux_run.apng", origin = [20, 17], bbox_mode = "manual", bbox = [8, 0, 31, 34] }
+knux_stuck = { file = "Player/Survivors/Knuckles/knux_stuck.png", origin = [17, 19] }
+knux_walk = { file = "Player/Survivors/Knuckles/knux_walk.apng", origin = [24, 19], bbox_mode = "manual", bbox = [12, 0, 34, 36] }
+knux_zipline = { file = "Player/Survivors/Knuckles/knux_zipline.png", origin = [15, 29] }
+limpcity = { file = "Zones/LimpCity/limpcity.png" }
+limpcity2 = { file = "Zones/LimpCity/limpcity2.png" }
+limpcity3 = { file = "Zones/LimpCity/limpcity3.apng" }
+limpcity_chain1 = { file = "Zones/LimpCity/limpcity_chain1.apng" }
+limpcity_chain2 = { file = "Zones/LimpCity/limpcity_chain2.apng" }
+limpcity_eye = { file = "Zones/LimpCity/limpcity_eye.png", origin = [14, 14] }
+limpcity_eye_chain = { file = "Zones/LimpCity/limpcity_eye_chain.png", origin = [11, 0] }
+limpcity_eye_hint = { file = "Zones/LimpCity/limpcity_eye_hint.apng", origin = [14, 24] }
+limpcity_eye_recharge = { file = "Zones/LimpCity/limpcity_eye_recharge.apng", origin = [14, 14], fps = 0 }
+limpcity_eyelid = { file = "Zones/LimpCity/limpcity_eyelid.png", origin = [16, 16] }
+limpcity_hideeye = { file = "Zones/LimpCity/limpcity_hideeye.apng", fps = 0 }
+limpcity_tiles_1 = { file = "Zones/LimpCity/limpcity_tiles_1.png" }
+limpcity_tiles_2 = { file = "Zones/LimpCity/limpcity_tiles_2.png" }
+lobby_bars = { file = "Lobby/lobby_bars.png" }
+lobby_chatbox = { file = "Lobby/lobby_chatbox.apng", fps = 0 }
+lobby_dicon = { file = "Lobby/lobby_dicon.apng", origin = [12, 12], fps = 0 }
+lobby_exeicon = { file = "Lobby/lobby_exeicon.apng", origin = [29, 30] }
+lobby_exeicon2 = { file = "Lobby/lobby_exeicon2.apng", origin = [29, 31], ping_pong = "turn_at_last" }
+lobby_exeicon3 = { file = "Lobby/lobby_exeicon3.apng", origin = [29, 31], ping_pong = "turn_at_last" }
+lobby_exeicon4 = { file = "Lobby/lobby_exeicon4.apng", origin = [29, 31], ping_pong = "turn_at_last" }
+lobby_exeicon5 = { file = "Lobby/lobby_exeicon5.apng", origin = [29, 29] }
+lobby_fog = { file = "Zones/Level1/lobby_fog.png" }
+lobby_icon = { file = "Lobby/lobby_icon.apng", origin = [12, 12], fps = 0 }
+lobby_icon_arrow = { file = "Lobby/lobby_icon_arrow.apng", origin = [20, 12], ping_pong = "turn_at_last" }
+lobby_icon_old = { file = "Lobby/lobby_icon_old.apng", origin = [12, 12], fps = 0 }
+lobby_icon_used = { file = "Lobby/lobby_icon_used.png" }
+lobby_tile1 = { file = "Zones/Level1/lobby_tile1.png" }
+lobby_tile2 = { file = "Zones/Level1/lobby_tile2.png" }
+lobby_tile3 = { file = "Zones/Level1/lobby_tile3.png" }
+lobby_tile3_hitbox = { file = "Zones/Level1/lobby_tile3_hitbox.png" }
+lobby_tile4 = { file = "Zones/Level1/lobby_tile4.png" }
+lobby_tile4_hitbox = { file = "Zones/Level1/lobby_tile4_hitbox.png" }
+lobby_tile5 = { file = "Zones/Level1/lobby_tile5.png" }
+logo = { file = "Main Menu/logo.apng", ping_pong = "repeat_first" }
+logo_logos = { file = "Main Menu/logo_logos.apng" }
+luigikid = { file = "Main Menu/luigikid.png" }
+majin_forest = { file = "Zones/MajinForest/majin_forest.png" }
+majin_forest2 = { file = "Zones/MajinForest/majin_forest2.apng" }
+majin_forest3 = { file = "Zones/MajinForest/majin_forest3.apng" }
+majin_forest_slope = { file = "Zones/MajinForest/majin_forest_slope.png", collision = "precise" }
+majin_forest_tiles_1 = { file = "Zones/MajinForest/majin_forest_tiles_1.png" }
+majin_forest_tiles_2 = { file = "Zones/MajinForest/majin_forest_tiles_2.png" }
+majin_forest_wall = { file = "Zones/MajinForest/majin_forest_wall.png" }
+majin_forest_waterfall = { file = "Zones/MajinForest/majin_forest_waterfall.apng" }
+mapvote = { file = "Zones/mapvote.apng" }
+marijuna_boohoo = { file = "Zones/Marijuna/marijuna_boohoo.png", origin = [7, 32] }
+marijuna_crystal = { file = "Zones/Marijuna/marijuna_crystal.png", origin = [20, 24] }
+marijuna_crystal2 = { file = "Zones/Marijuna/marijuna_crystal2.apng", origin = [28, 32], bbox_mode = "manual", bbox = [8, 8, 47, 55] }
+marijuna_fireball = { file = "Zones/Marijuna/marijuna_fireball.apng" }
+marijuna_judger = { file = "Zones/Marijuna/marijuna_judger.apng", origin = [43, 30] }
+marijuna_lava = { file = "Zones/Marijuna/marijuna_lava.apng" }
+marijuna_lava2 = { file = "Zones/Marijuna/marijuna_lava2.apng" }
+marijuna_lavaplatform = { file = "Zones/Marijuna/marijuna_lavaplatform.apng", collision = "precise", bbox_mode = "manual", bbox = [0, 0, 159, 74] }
+marijuna_slopes = { file = "Zones/Marijuna/marijuna_slopes.apng", collision = "precise_per_frame", fps = 0 }
+marijuna_statue = { file = "Zones/Marijuna/marijuna_statue.apng", origin = [21, 60], fps = 0 }
+marijuna_statue2 = { file = "Zones/Marijuna/marijuna_statue2.apng", origin = [20, 56], fps = 0 }
+marijuna_statue3 = { file = "Zones/Marijuna/marijuna_statue3.png", origin = [21, 46] }
+marijuna_tiles2_1 = { file = "Zones/Marijuna/marijuna_tiles2_1.png" }
+marijuna_tiles2_2 = { file = "Zones/Marijuna/marijuna_tiles2_2.png" }
+marijuna_tiles_1 = { file = "Zones/Marijuna/marijuna_tiles_1.png" }
+marijuna_tiles_2 = { file = "Zones/Marijuna/marijuna_tiles_2.png" }
+marijuna_torch = { file = "Zones/Marijuna/marijuna_torch.apng", origin = [11, 56] }
+menu_amy = { file = "Main Menu/Gifs/menu_amy.apng", origin = [120, 184] }
+menu_bars = { file = "Main Menu/menu_bars.apng", fps = 0 }
+menu_chaos = { file = "Main Menu/Gifs/menu_chaos.apng", origin = [122, 193] }
+menu_characters = { file = "Main Menu/menu_characters.apng" }
+menu_chicons = { file = "Main Menu/menu_chicons.apng" }
+menu_cream = { file = "Main Menu/Gifs/menu_cream.apng", origin = [111, 174] }
+menu_demon = { file = "Main Menu/Gifs/menu_demon.apng" }
+menu_diff = { file = "Main Menu/Gifs/menu_diff.png" }
+menu_egg = { file = "Main Menu/Gifs/menu_egg.apng", origin = [128, 186] }
+menu_escape = { file = "Main Menu/Gifs/menu_escape.apng" }
+menu_exe = { file = "Main Menu/Gifs/menu_exe.apng", origin = [120, 194], ping_pong = "turn_at_last" }
+menu_exeller = { file = "Main Menu/Gifs/menu_exeller.apng", origin = [156, 180] }
+menu_exetior = { file = "Main Menu/Gifs/menu_exetior.apng", origin = [138, 194] }
+menu_hit = { file = "Main Menu/Gifs/menu_hit.apng" }
+menu_icon = { file = "Main Menu/menu_icon.png" }
+menu_iconframe = { file = "Main Menu/menu_iconframe.apng", origin = [17, 17], fps = 0 }
+menu_knux = { file = "Main Menu/Gifs/menu_knux.apng", origin = [111, 188] }
+menu_links = { file = "Main Menu/menu_links.apng", fps = 0 }
+menu_links2 = { file = "Main Menu/menu_links2.apng", fps = 0 }
+menu_par = { file = "Main Menu/Gifs/menu_par.apng" }
+menu_particle = { file = "Main Menu/menu_particle.png", origin = [4, 4] }
+menu_public = { file = "Main Menu/menu_public.png", origin = [2, 3], bbox_mode = "manual", bbox = [-20, -19, 26, 23] }
+menu_public2 = { file = "Main Menu/menu_public2.apng", origin = [56, 38] }
+menu_reb = { file = "Main Menu/Gifs/menu_reb.apng" }
+menu_redrings = { file = "Main Menu/Gifs/menu_redrings.apng" }
+menu_rings = { file = "Main Menu/Gifs/menu_rings.apng" }
+menu_sally = { file = "Main Menu/Gifs/menu_sally.apng", origin = [73, 173] }
+menu_skin = { file = "Main Menu/menu_skin.apng" }
+menu_slider = { file = "Main Menu/menu_slider.apng", bbox_mode = "manual", bbox = [-6, -7, 71, 11] }
+menu_spin = { file = "Main Menu/Gifs/menu_spin.apng" }
+menu_steal = { file = "Main Menu/Gifs/menu_steal.apng" }
+menu_sudden = { file = "Main Menu/Gifs/menu_sudden.apng" }
+menu_tails = { file = "Main Menu/Gifs/menu_tails.apng", origin = [137, 170] }
+menu_textbox = { file = "Main Menu/menu_textbox.png" }
+menu_textpanel = { file = "Main Menu/menu_textpanel.png" }
+menu_waiting = { file = "Main Menu/menu_waiting.apng", origin = [95, 4] }
+menu_warning = { file = "Main Menu/menu_warning.png" }
+menu_warning2 = { file = "Main Menu/menu_warning2.png", origin = [346, 48] }
+mercoin = { file = "Main Menu/mercoin.apng" }
+merfurmu = { file = "Special/merfurmu.apng" }
+merfurmu2 = { file = "Special/merfurmu2.png" }
+mini_border = { file = "Minigame/mini_border.png" }
+minisnoc = { file = "Minigame/minisnoc.apng", origin = [10, 11], bbox_mode = "manual", bbox = [4, 8, 15, 18] }
+minisnoc_charg = { file = "Minigame/minisnoc_charg.png" }
+minisnoc_graveyard = { file = "Minigame/minisnoc_graveyard.apng", origin = [21, 20] }
+minisnoc_hit = { file = "Minigame/minisnoc_hit.png", origin = [11, 8] }
+minisnoc_mcbigtasty = { file = "Minigame/minisnoc_mcbigtasty.png", origin = [26, 2] }
+minisnoc_spin = { file = "Minigame/minisnoc_spin.apng", origin = [9, 9] }
+mj = { file = "Zones/Marijuna/mj.png" }
+mj2 = { file = "Zones/Marijuna/mj2.png" }
+mj3 = { file = "Zones/Marijuna/mj3.png" }
+mj4 = { file = "Zones/Marijuna/mj4.png" }
+mj5 = { file = "Zones/Marijuna/mj5.png" }
+mobile_button = { file = "GUI/Mobile/mobile_button.apng", origin = [24, 24], fps = 0 }
+mobile_dpad = { file = "GUI/Mobile/mobile_dpad.apng", origin = [64, 64], fps = 0 }
+mobile_smallbutton = { file = "GUI/Mobile/mobile_smallbutton.apng", origin = [7, 7], fps = 0 }
+mobile_smallicons = { file = "GUI/Mobile/mobile_smallicons.apng", origin = [3, 3], fps = 0 }
+nap = { file = "Zones/NastyParadise/nap.png" }
+nap2 = { file = "Zones/NastyParadise/nap2.png" }
+nap3 = { file = "Zones/NastyParadise/nap3.png" }
+nap_ballmonster = { file = "Zones/NastyParadise/nap_ballmonster.apng" }
+nap_iceblock = { file = "Zones/NastyParadise/nap_iceblock.png", bbox_mode = "manual", bbox = [-5, 0, 44, 39] }
+nap_iceblock2 = { file = "Zones/NastyParadise/nap_iceblock2.apng" }
+nap_iceblock3 = { file = "Zones/NastyParadise/nap_iceblock3.png", bbox_mode = "manual", bbox = [0, 44, 40, 43] }
+nap_iceblock_part = { file = "Zones/NastyParadise/nap_iceblock_part.png", origin = [8, 8] }
+nap_icespike = { file = "Zones/NastyParadise/nap_icespike.png" }
+nap_snow = { file = "Zones/NastyParadise/nap_snow.png" }
+nap_snowball = { file = "Zones/NastyParadise/nap_snowball.apng", origin = [48, 96], collision = "ellipse", bbox_mode = "manual", bbox = [8, 14, 88, 95], fps = 0 }
+nap_snowball_part = { file = "Zones/NastyParadise/nap_snowball_part.apng", origin = [36, 27], bbox_mode = "manual", bbox = [21, 18, 50, 38], fps = 0 }
+nap_tails2_1 = { file = "Zones/NastyParadise/nap_tails2_1.png" }
+nap_tails2_2 = { file = "Zones/NastyParadise/nap_tails2_2.png" }
+nap_tiles3 = { file = "Zones/NastyParadise/nap_tiles3.png" }
+nap_tiles_1 = { file = "Zones/NastyParadise/nap_tiles_1.png" }
+nap_tiles_2 = { file = "Zones/NastyParadise/nap_tiles_2.png" }
+none = { file = "none.png" }
+notperf = { file = "Zones/NotPerfect/notperf.apng" }
+notperf2 = { file = "Zones/NotPerfect/notperf2.apng", origin = [16, 15] }
+notperf3 = { file = "Zones/NotPerfect/notperf3.apng", origin = [27, 18] }
+notperfect2_1 = { file = "Zones/NotPerfect/notperfect2_1.png" }
+notperfect2_2 = { file = "Zones/NotPerfect/notperfect2_2.png" }
+notperfect2_3 = { file = "Zones/NotPerfect/notperfect2_3.png" }
+notperfect2_4 = { file = "Zones/NotPerfect/notperfect2_4.png" }
+notperfect2_p2_1 = { file = "Zones/NotPerfect/notperfect2_p2_1.png" }
+notperfect2_p2_2 = { file = "Zones/NotPerfect/notperfect2_p2_2.png" }
+notperfect2_p2_3 = { file = "Zones/NotPerfect/notperfect2_p2_3.png" }
+notperfect2_p2_4 = { file = "Zones/NotPerfect/notperfect2_p2_4.png" }
+notperfect_1 = { file = "Zones/NotPerfect/notperfect_1.png" }
+notperfect_2 = { file = "Zones/NotPerfect/notperfect_2.png" }
+notperfect_3 = { file = "Zones/NotPerfect/notperfect_3.png" }
+notperfect_4 = { file = "Zones/NotPerfect/notperfect_4.png" }
+notperfect_p2_1 = { file = "Zones/NotPerfect/notperfect_p2_1.png" }
+notperfect_p2_2 = { file = "Zones/NotPerfect/notperfect_p2_2.png" }
+notperfect_p2_3 = { file = "Zones/NotPerfect/notperfect_p2_3.png" }
+notperfect_p2_4 = { file = "Zones/NotPerfect/notperfect_p2_4.png" }
+pet_annette = { file = "Pets/pet_annette.png", origin = [16, 17] }
+pet_bals = { file = "Pets/pet_bals.apng", origin = [9, 17] }
+pet_catwe = { file = "Pets/pet_catwe.png", origin = [11, 26] }
+pet_chao = { file = "Pets/pet_chao.apng", origin = [6, 10], fps = 0 }
+pet_daldol = { file = "Pets/pet_daldol.apng", origin = [11, 15], fps = 0 }
+pet_daldol_b = { file = "Pets/pet_daldol_b.png", origin = [11, 15] }
+pet_dana = { file = "Pets/pet_dana.apng", origin = [16, 17] }
+pet_egg = { file = "Pets/pet_egg.apng", origin = [12, 13] }
+pet_flicky = { file = "Pets/pet_flicky.apng", origin = [8, 7] }
+pet_hamter = { file = "Pets/pet_hamter.png", origin = [8, 19] }
+pet_majin = { file = "Pets/pet_majin.apng", origin = [15, 15] }
+pet_merjong = { file = "Pets/pet_merjong.apng", origin = [16, 17] }
+pet_metal = { file = "Pets/pet_metal.apng", origin = [7, 13] }
+pet_mknux = { file = "Pets/pet_mknux.apng", origin = [8, 13] }
+pet_moonwater = { file = "Pets/pet_moonwater.png", origin = [11, 20] }
+pet_mrpixel = { file = "Pets/pet_mrpixel.png", origin = [11, 19] }
+pet_none = { file = "Pets/pet_none.png", origin = [10, 10] }
+pet_patos = { file = "Pets/pet_patos.png", origin = [9, 10] }
+pet_perdis = { file = "Pets/pet_perdis.png", origin = [17, 18] }
+pet_philnux = { file = "Pets/pet_philnux.png", origin = [12, 16] }
+pet_selfinj = { file = "Pets/pet_selfinj.png", origin = [12, 16] }
+pet_sewers = { file = "Pets/pet_sewers.png", origin = [13, 19] }
+pet_skull = { file = "Pets/pet_skull.png", origin = [11, 11] }
+pet_snic = { file = "Pets/pet_snic.png", origin = [16, 20] }
+pet_stor = { file = "Pets/pet_stor.apng", origin = [9, 19] }
+pet_tits = { file = "Pets/pet_tits.png", origin = [13, 20] }
+pet_triz1 = { file = "Pets/pet_triz1.png", origin = [9, 14] }
+pet_triz2 = { file = "Pets/pet_triz2.png", origin = [10, 14] }
+pet_triz3 = { file = "Pets/pet_triz3.png", origin = [11, 14] }
+pet_uncle = { file = "Pets/pet_uncle.png", origin = [12, 12] }
+pet_whisper = { file = "Pets/pet_whisper.png", origin = [13, 23] }
+pf = { file = "Zones/PricelessFreedom/pf.apng" }
+pf_lift = { file = "Zones/PricelessFreedom/pf_lift.apng", origin = [16, 7] }
+pf_tiles_1 = { file = "Zones/PricelessFreedom/pf_tiles_1.png" }
+pf_tiles_2 = { file = "Zones/PricelessFreedom/pf_tiles_2.png" }
+pf_tiles_3 = { file = "Zones/PricelessFreedom/pf_tiles_3.png" }
+pf_tiles_4 = { file = "Zones/PricelessFreedom/pf_tiles_4.png" }
+platform = { file = "Objects/Solid/platform.png", bbox_mode = "manual", bbox = [0, 0, 63, 0] }
+playerescaped = { file = "GUI/Player/playerescaped.apng", origin = [0, 26] }
+playerhealth = { file = "GUI/Player/playerhealth.apng", origin = [0, 26] }
+playerhealth_demon = { file = "GUI/Player/playerhealth_demon.apng", origin = [0, 26] }
+playerhealth_hit = { file = "GUI/Player/playerhealth_hit.apng", origin = [0, 26] }
+playerhealth_redring = { file = "GUI/Player/playerhealth_redring.apng", origin = [0, 26] }
+preview_act9_1 = { file = "Previews/preview_act9_1.png" }
+preview_act9_2 = { file = "Previews/preview_act9_2.png" }
+preview_act9_3 = { file = "Previews/preview_act9_3.png" }
+preview_angel_island_1 = { file = "Previews/preview_angel_island_1.png" }
+preview_angel_island_2 = { file = "Previews/preview_angel_island_2.png" }
+preview_angel_island_3 = { file = "Previews/preview_angel_island_3.png" }
+preview_angel_island_background = { file = "Previews/preview_angel_island_background.apng" }
+preview_dark_tower_1 = { file = "Previews/preview_dark_tower_1.png" }
+preview_dark_tower_2 = { file = "Previews/preview_dark_tower_2.png" }
+preview_dark_tower_3 = { file = "Previews/preview_dark_tower_3.png" }
+preview_desert_town_1 = { file = "Previews/preview_desert_town_1.png" }
+preview_desert_town_2 = { file = "Previews/preview_desert_town_2.png" }
+preview_desert_town_3 = { file = "Previews/preview_desert_town_3.png" }
+preview_desert_town_background = { file = "Previews/preview_desert_town_background.png" }
+preview_dotdotdot_1 = { file = "Previews/preview_dotdotdot_1.png" }
+preview_dotdotdot_2 = { file = "Previews/preview_dotdotdot_2.png" }
+preview_dotdotdot_3 = { file = "Previews/preview_dotdotdot_3.png" }
+preview_fart_zone_1 = { file = "Previews/preview_fart_zone_1.png" }
+preview_fart_zone_2 = { file = "Previews/preview_fart_zone_2.png" }
+preview_fart_zone_3 = { file = "Previews/preview_fart_zone_3.png" }
+preview_fart_zone_background = { file = "Previews/preview_fart_zone_background.png" }
+preview_green_hill_1 = { file = "Previews/preview_green_hill_1.png" }
+preview_green_hill_2 = { file = "Previews/preview_green_hill_2.png" }
+preview_green_hill_3 = { file = "Previews/preview_green_hill_3.png" }
+preview_green_hill_background = { file = "Previews/preview_green_hill_background.apng" }
+preview_haunting_dream_1 = { file = "Previews/preview_haunting_dream_1.png" }
+preview_haunting_dream_2 = { file = "Previews/preview_haunting_dream_2.png" }
+preview_haunting_dream_3 = { file = "Previews/preview_haunting_dream_3.png" }
+preview_haunting_dream_background = { file = "Previews/preview_haunting_dream_background.png" }
+preview_hide_and_seek_2_1 = { file = "Previews/preview_hide_and_seek_2_1.png" }
+preview_hide_and_seek_2_2 = { file = "Previews/preview_hide_and_seek_2_2.png" }
+preview_hide_and_seek_2_3 = { file = "Previews/preview_hide_and_seek_2_3.png" }
+preview_hide_and_seek_2_background = { file = "Previews/preview_hide_and_seek_2_background.png" }
+preview_kind_and_fair_1 = { file = "Previews/preview_kind_and_fair_1.png" }
+preview_kind_and_fair_2 = { file = "Previews/preview_kind_and_fair_2.png" }
+preview_kind_and_fair_3 = { file = "Previews/preview_kind_and_fair_3.png" }
+preview_kind_and_fair_background = { file = "Previews/preview_kind_and_fair_background.png" }
+preview_level1_1 = { file = "Previews/preview_level1_1.png" }
+preview_level1_2 = { file = "Previews/preview_level1_2.png" }
+preview_level1_3 = { file = "Previews/preview_level1_3.png" }
+preview_limp_city_1 = { file = "Previews/preview_limp_city_1.png" }
+preview_limp_city_2 = { file = "Previews/preview_limp_city_2.png" }
+preview_limp_city_3 = { file = "Previews/preview_limp_city_3.png" }
+preview_limp_city_background = { file = "Previews/preview_limp_city_background.png" }
+preview_majin_forest_1 = { file = "Previews/preview_majin_forest_1.png" }
+preview_majin_forest_2 = { file = "Previews/preview_majin_forest_2.png" }
+preview_majin_forest_3 = { file = "Previews/preview_majin_forest_3.png" }
+preview_majin_forest_background = { file = "Previews/preview_majin_forest_background.apng" }
+preview_marijuna_1 = { file = "Previews/preview_marijuna_1.png" }
+preview_marijuna_2 = { file = "Previews/preview_marijuna_2.png" }
+preview_marijuna_3 = { file = "Previews/preview_marijuna_3.png" }
+preview_marijuna_background = { file = "Previews/preview_marijuna_background.png" }
+preview_nasty_paradise_1 = { file = "Previews/preview_nasty_paradise_1.png" }
+preview_nasty_paradise_2 = { file = "Previews/preview_nasty_paradise_2.png" }
+preview_nasty_paradise_3 = { file = "Previews/preview_nasty_paradise_3.png" }
+preview_nasty_paradise_background = { file = "Previews/preview_nasty_paradise_background.png" }
+preview_not_perfect_1 = { file = "Previews/preview_not_perfect_1.png" }
+preview_not_perfect_2 = { file = "Previews/preview_not_perfect_2.png" }
+preview_not_perfect_3 = { file = "Previews/preview_not_perfect_3.png" }
+preview_not_perfect_4 = { file = "Previews/preview_not_perfect_4.png" }
+preview_not_perfect_background = { file = "Previews/preview_not_perfect_background.png" }
+preview_priceless_freedom_1 = { file = "Previews/preview_priceless_freedom_1.png" }
+preview_priceless_freedom_2 = { file = "Previews/preview_priceless_freedom_2.png" }
+preview_priceless_freedom_3 = { file = "Previews/preview_priceless_freedom_3.png" }
+preview_ravine_mist_1 = { file = "Previews/preview_ravine_mist_1.png" }
+preview_ravine_mist_2 = { file = "Previews/preview_ravine_mist_2.png" }
+preview_ravine_mist_background = { file = "Previews/preview_ravine_mist_background.png" }
+preview_torture_cave_1 = { file = "Previews/preview_torture_cave_1.png" }
+preview_torture_cave_2 = { file = "Previews/preview_torture_cave_2.png" }
+preview_torture_cave_3 = { file = "Previews/preview_torture_cave_3.png" }
+preview_torture_cave_background = { file = "Previews/preview_torture_cave_background.apng" }
+preview_volcano_valley_1 = { file = "Previews/preview_volcano_valley_1.png" }
+preview_volcano_valley_2 = { file = "Previews/preview_volcano_valley_2.png" }
+preview_volcano_valley_3 = { file = "Previews/preview_volcano_valley_3.png" }
+preview_volcano_valley_background = { file = "Previews/preview_volcano_valley_background.png" }
+preview_weed_zone_1 = { file = "Previews/preview_weed_zone_1.png" }
+preview_weed_zone_2 = { file = "Previews/preview_weed_zone_2.png" }
+preview_weed_zone_3 = { file = "Previews/preview_weed_zone_3.png" }
+preview_weed_zone_background = { file = "Previews/preview_weed_zone_background.png" }
+preview_you_cant_run_1 = { file = "Previews/preview_you_cant_run_1.png" }
+preview_you_cant_run_2 = { file = "Previews/preview_you_cant_run_2.png" }
+preview_you_cant_run_3 = { file = "Previews/preview_you_cant_run_3.png" }
+preview_you_cant_run_background = { file = "Previews/preview_you_cant_run_background.png" }
+ramphelper_right = { file = "Special/ramphelper_right.png" }
+ravinemist2_1 = { file = "Zones/RavineMist/ravinemist2_1.png" }
+ravinemist2_2 = { file = "Zones/RavineMist/ravinemist2_2.png" }
+ravinemist_1 = { file = "Zones/RavineMist/ravinemist_1.png" }
+ravinemist_2 = { file = "Zones/RavineMist/ravinemist_2.png" }
+ravinemist_bg = { file = "Zones/RavineMist/ravinemist_bg.png" }
+ravinemist_bush = { file = "Zones/RavineMist/ravinemist_bush.apng", bbox_mode = "manual", bbox = [15, 0, 28, 24] }
+ravinemist_bush_animated = { file = "Zones/RavineMist/ravinemist_bush_animated.png", bbox_mode = "manual", bbox = [10, 0, 24, 24] }
+ravinemist_fog1 = { file = "Zones/RavineMist/ravinemist_fog1.png" }
+ravinemist_fog2 = { file = "Zones/RavineMist/ravinemist_fog2.png" }
+ravinemist_misc = { file = "Zones/RavineMist/ravinemist_misc.apng" }
+ravinemist_shard = { file = "Zones/RavineMist/ravinemist_shard.apng", origin = [15, 20], bbox_mode = "manual", bbox = [7, 10, 21, 28], ping_pong = "turn_at_last" }
+ravinemist_shard_without_glow = { file = "Zones/RavineMist/ravinemist_shard_without_glow.png", origin = [15, 20] }
+ravinemist_sonic = { file = "Zones/RavineMist/ravinemist_sonic.apng", origin = [17, 24], ping_pong = "turn_at_last" }
+ravinemist_sonic2 = { file = "Zones/RavineMist/ravinemist_sonic2.apng", origin = [15, 25] }
+ravinemist_sonic3 = { file = "Zones/RavineMist/ravinemist_sonic3.apng", origin = [15, 25] }
+ravinemist_sonicdead = { file = "Zones/RavineMist/ravinemist_sonicdead.apng", origin = [17, 24] }
+ravinemist_trees = { file = "Zones/RavineMist/ravinemist_trees.apng" }
+ravinemist_ui = { file = "Zones/RavineMist/ravinemist_ui.apng" }
+red = { file = "Special/red.png" }
+redring = { file = "Objects/Rings/redring.apng" }
+redring_fore = { file = "GUI/Screens/redring_fore.apng" }
+results_bar = { file = "Results/results_bar.apng" }
+results_icons = { file = "Results/results_icons.apng" }
+revival = { file = "GUI/revival.apng", origin = [14, 25] }
+revival2 = { file = "GUI/revival2.png", origin = [17, 32] }
+ring = { file = "Objects/Rings/ring.apng" }
+ring_sparkle = { file = "Effects/ring_sparkle.apng" }
+ring_teleport = { file = "Effects/ring_teleport.apng", origin = [32, 64] }
+ringlose = { file = "Effects/ringlose.apng", origin = [46, 13] }
+ringpart = { file = "Objects/Rings/ringpart.apng", origin = [4, 5], bbox_mode = "manual", bbox = [0, 0, 8, 7], fps = 0 }
+ringpart2 = { file = "Objects/Rings/ringpart2.apng", origin = [6, 6], bbox_mode = "manual", bbox = [0, 2, 11, 10], fps = 0 }
+ringpart3 = { file = "Objects/Rings/ringpart3.apng", origin = [4, 5], bbox_mode = "manual", bbox = [0, 4, 8, 7], fps = 0 }
+ringpart4 = { file = "Objects/Rings/ringpart4.apng", origin = [8, 5], bbox_mode = "manual", bbox = [0, 0, 15, 9], fps = 0 }
+ringspawn = { file = "Special/ringspawn.png", origin = [17, 32] }
+rm = { file = "Zones/RavineMist/rm.png" }
+rm2 = { file = "Zones/RavineMist/rm2.png" }
+rm3 = { file = "Zones/RavineMist/rm3.png" }
+roseheart = { file = "Effects/roseheart.apng", origin = [8, 7] }
+sally_attack = { file = "Player/Survivors/Sally/sally_attack.apng", origin = [16, 25], bbox_mode = "manual", bbox = [10, 17, 35, 46] }
+sally_balancing = { file = "Player/Survivors/Sally/sally_balancing.apng", origin = [24, 25], bbox_mode = "manual", bbox = [12, 3, 33, 42] }
+sally_dead = { file = "Player/Survivors/Sally/sally_dead.apng", origin = [26, 25], bbox_mode = "manual", bbox = [0, 30, 47, 47] }
+sally_emotion1 = { file = "Player/Survivors/Sally/sally_emotion1.apng", origin = [12, 24], bbox_mode = "manual", bbox = [0, 0, 21, 41] }
+sally_emotion2 = { file = "Player/Survivors/Sally/sally_emotion2.apng", origin = [13, 25], bbox_mode = "manual", bbox = [0, 1, 21, 42], ping_pong = "turn_at_last" }
+sally_emotion3 = { file = "Player/Survivors/Sally/sally_emotion3.apng", origin = [12, 25], bbox_mode = "manual", bbox = [1, 0, 22, 42], ping_pong = "turn_at_last" }
+sally_fall = { file = "Player/Survivors/Sally/sally_fall.png", origin = [19, 25] }
+sally_hurt = { file = "Player/Survivors/Sally/sally_hurt.png", origin = [13, 25] }
+sally_idle = { file = "Player/Survivors/Sally/sally_idle.apng", origin = [12, 30], bbox_mode = "manual", bbox = [0, 5, 21, 47] }
+sally_jump = { file = "Player/Survivors/Sally/sally_jump.apng", origin = [19, 22], bbox_mode = "manual", bbox = [6, 0, 26, 46] }
+sally_lookdown = { file = "Player/Survivors/Sally/sally_lookdown.apng", origin = [15, 25], bbox_mode = "manual", bbox = [0, 16, 28, 42] }
+sally_lookup = { file = "Player/Survivors/Sally/sally_lookup.png", origin = [12, 25], bbox_mode = "manual", bbox = [0, 1, 21, 42] }
+sally_run = { file = "Player/Survivors/Sally/sally_run.apng", origin = [21, 27], bbox_mode = "manual", bbox = [9, 4, 30, 44] }
+sally_slide = { file = "Player/Survivors/Sally/sally_slide.png", origin = [19, 13], bbox_mode = "manual", bbox = [0, 14, 36, 31] }
+sally_walk = { file = "Player/Survivors/Sally/sally_walk.apng", origin = [17, 25], bbox_mode = "manual", bbox = [7, 2, 25, 42] }
+sally_zipline = { file = "Player/Survivors/Sally/sally_zipline.png", origin = [12, 27] }
+sallyshield = { file = "Player/Survivors/Sally/sallyshield.apng", origin = [23, 21] }
+sallyshield2 = { file = "Player/Demonized/Sally/sallyshield2.apng", origin = [23, 21] }
+screenoverlay = { file = "GUI/Screens/screenoverlay.png" }
+screenoverlay2 = { file = "GUI/Screens/screenoverlay2.apng" }
+selfinsert = { file = "Zones/Weed Zone/selfinsert.apng" }
+selfinsert2 = { file = "Zones/Weed Zone/selfinsert2.png" }
+sensor = { file = "Special/sensor.png" }
+shard_sparkle = { file = "Effects/shard_sparkle.apng", origin = [8, 8] }
+shieldbreak = { file = "Effects/shieldbreak.apng", origin = [43, 43] }
+shieldbreak2 = { file = "Effects/shieldbreak2.apng", origin = [43, 43], bbox_mode = "manual", bbox = [9, 3, 80, 80] }
+shockparticle = { file = "Effects/shockparticle.apng", origin = [20, 18] }
+sindicator = { file = "GUI/Player/sindicator.png", origin = [0, 8] }
+sindicator2 = { file = "GUI/Player/sindicator2.png", origin = [0, 8] }
+sindicator3 = { file = "GUI/Player/sindicator3.png", origin = [0, 8] }
+smoke = { file = "Effects/smoke.apng" }
+snbway = { file = "Special/snbway.png" }
+sota = { file = "Minigame/sota.png", origin = [13, 14], collision = "precise" }
+sota2 = { file = "Minigame/sota2.png", origin = [13, 13], collision = "precise" }
+sota3 = { file = "Minigame/sota3.png", origin = [5, 4] }
+soundemitter = { file = "Special/soundemitter.png", origin = [17, 32] }
+spawnpoint = { file = "Special/spawnpoint.png", origin = [17, 32] }
+spike = { file = "Objects/Spikes/spike.png", bbox_mode = "manual", bbox = [0, 0, 31, 31] }
+spike_moving = { file = "Objects/Spikes/spike_moving.apng", bbox_mode = "manual", bbox = [0, 28, 29, 28] }
+spike_r = { file = "Objects/Spikes/spike_r.png", bbox_mode = "manual", bbox = [0, 0, 31, 31] }
+spring_left = { file = "Objects/Springs/spring_left.apng", origin = [44, 44], bbox_mode = "manual", bbox = [11, 10, 43, 43] }
+spring_right = { file = "Objects/Springs/spring_right.apng", origin = [44, 44], bbox_mode = "manual", bbox = [11, 10, 43, 43] }
+spring_up = { file = "Objects/Springs/spring_up.apng", origin = [0, 32] }
+static = { file = "GUI/Screens/static.apng" }
+status = { file = "GUI/Screens/status.apng", origin = [84, 0] }
+sudden_death = { file = "GUI/Screens/sudden_death.apng", origin = [240, 135], ping_pong = "turn_at_last" }
+survivorsescaped = { file = "GUI/Screens/survivorsescaped.apng", origin = [240, 135], ping_pong = "turn_at_last" }
+tab_entry = { file = "GUI/Screens/tab_entry.png", origin = [113, 0] }
+tail_ray_dead = { file = "Player/Survivors/Tails/tail_ray_dead.apng", origin = [0, 9] }
+tail_ray_dead1 = { file = "Player/Survivors/Tails/tail_ray_dead1.apng", origin = [0, 9] }
+tail_ray_dead2 = { file = "Player/Survivors/Tails/tail_ray_dead2.apng", origin = [0, 9] }
+tail_ray_dead3 = { file = "Player/Survivors/Tails/tail_ray_dead3.apng", origin = [0, 9] }
+tail_ray_dead4 = { file = "Player/Survivors/Tails/tail_ray_dead4.apng", origin = [0, 9] }
+tails_attack1 = { file = "Player/Survivors/Tails/tails_attack1.png", origin = [31, 14], bbox_mode = "manual", bbox = [17, 0, 36, 31] }
+tails_balancing = { file = "Player/Survivors/Tails/tails_balancing.apng", origin = [19, 13], bbox_mode = "manual", bbox = [9, 0, 29, 30], ping_pong = "turn_at_last" }
+tails_dead = { file = "Player/Survivors/Tails/tails_dead.apng", origin = [26, 16], bbox_mode = "manual", bbox = [0, 23, 38, 42] }
+tails_emotion1 = { file = "Player/Survivors/Tails/tails_emotion1.apng", origin = [13, 14], ping_pong = "turn_at_last" }
+tails_emotion2 = { file = "Player/Survivors/Tails/tails_emotion2.apng", origin = [19, 14], bbox_mode = "manual", bbox = [9, 0, 28, 31], ping_pong = "turn_at_last" }
+tails_emotion3 = { file = "Player/Survivors/Tails/tails_emotion3.apng", origin = [12, 13], bbox_mode = "manual", bbox = [1, 0, 19, 30] }
+tails_fall = { file = "Player/Survivors/Tails/tails_fall.apng", origin = [14, 11] }
+tails_fly = { file = "Player/Survivors/Tails/tails_fly.apng", origin = [20, 17], bbox_mode = "manual", bbox = [2, 4, 34, 27] }
+tails_hurt = { file = "Player/Survivors/Tails/tails_hurt.png", origin = [15, 17] }
+tails_idle = { file = "Player/Survivors/Tails/tails_idle.apng", origin = [22, 14], bbox_mode = "manual", bbox = [11, 1, 31, 31] }
+tails_jump = { file = "Player/Survivors/Tails/tails_jump.apng", origin = [14, 8] }
+tails_lookdown = { file = "Player/Survivors/Tails/tails_lookdown.png", origin = [11, 2] }
+tails_lookup = { file = "Player/Survivors/Tails/tails_lookup.png", origin = [13, 13] }
+tails_ray = { file = "Player/Survivors/Tails/tails_ray.apng", origin = [0, 3], bbox_mode = "manual", bbox = [0, 0, 40, 7], fps = 0 }
+tails_run = { file = "Player/Survivors/Tails/tails_run.apng", origin = [27, 14], bbox_mode = "manual", bbox = [14, 0, 33, 31] }
+tails_spring = { file = "Player/Survivors/Tails/tails_spring.apng" }
+tails_tail1 = { file = "Player/Survivors/Tails/tails_tail1.apng", origin = [35, 8] }
+tails_tail2 = { file = "Player/Survivors/Tails/tails_tail2.apng", origin = [28, 10] }
+tails_walk = { file = "Player/Survivors/Tails/tails_walk.apng", origin = [28, 14], bbox_mode = "manual", bbox = [18, 0, 35, 31] }
+tails_zipline = { file = "Player/Survivors/Tails/tails_zipline.png", origin = [27, 18] }
+tailscharge = { file = "Effects/tailscharge.apng", origin = [9, 5] }
+test = { file = "Zones/test.apng" }
+timeover = { file = "GUI/Screens/timeover.apng", origin = [240, 135], ping_pong = "turn_at_last" }
+titlecard1 = { file = "Zones/titlecard1.apng" }
+titlecard2 = { file = "Zones/titlecard2.apng" }
+underwater_noise = { file = "Effects/underwater_noise.png" }
+vote_bars = { file = "Lobby/vote_bars.png" }
+vv = { file = "Zones/VolcanoValley/vv.png" }
+vv2 = { file = "Zones/VolcanoValley/vv2.png" }
+vv3 = { file = "Zones/VolcanoValley/vv3.png" }
+vv4 = { file = "Zones/VolcanoValley/vv4.png" }
+vv5 = { file = "Zones/VolcanoValley/vv5.png" }
+vv_barrel = { file = "Zones/VolcanoValley/vv_barrel.apng" }
+vv_barrel2 = { file = "Zones/VolcanoValley/vv_barrel2.apng" }
+vv_flava = { file = "Zones/VolcanoValley/vv_flava.apng" }
+vv_lava = { file = "Zones/VolcanoValley/vv_lava.apng" }
+vv_lavacolumn = { file = "Zones/VolcanoValley/vv_lavacolumn.apng", origin = [56, 0], bbox_mode = "manual", bbox = [25, 17, 88, 199] }
+vv_lavacolumn2 = { file = "Zones/VolcanoValley/vv_lavacolumn2.apng", origin = [56, 0], bbox_mode = "manual", bbox = [25, 17, 88, 509] }
+vv_tiles2_1 = { file = "Zones/VolcanoValley/vv_tiles2_1.png" }
+vv_tiles2_2 = { file = "Zones/VolcanoValley/vv_tiles2_2.png" }
+vv_tiles2_3 = { file = "Zones/VolcanoValley/vv_tiles2_3.png" }
+vv_tiles2_4 = { file = "Zones/VolcanoValley/vv_tiles2_4.png" }
+vv_tiles3_1 = { file = "Zones/VolcanoValley/vv_tiles3_1.png" }
+vv_tiles3_2 = { file = "Zones/VolcanoValley/vv_tiles3_2.png" }
+vv_tiles3_3 = { file = "Zones/VolcanoValley/vv_tiles3_3.png" }
+vv_tiles3_4 = { file = "Zones/VolcanoValley/vv_tiles3_4.png" }
+vv_tiles_1 = { file = "Zones/VolcanoValley/vv_tiles_1.png" }
+vv_tiles_2 = { file = "Zones/VolcanoValley/vv_tiles_2.png" }
+vv_tiles_3 = { file = "Zones/VolcanoValley/vv_tiles_3.png" }
+vv_tiles_4 = { file = "Zones/VolcanoValley/vv_tiles_4.png" }
+vv_vase = { file = "Zones/VolcanoValley/vv_vase.png", origin = [12, 16] }
+vv_vasepiece = { file = "Zones/VolcanoValley/vv_vasepiece.apng", origin = [6, 8], fps = 0 }
+warning = { file = "Objects/warning.apng", origin = [20, 19] }
+watersplash = { file = "Effects/watersplash.apng", origin = [16, 32] }
+weed = { file = "Zones/Weed Zone/weed.png" }
+weed2 = { file = "Zones/Weed Zone/weed2.png" }
+weed3 = { file = "Zones/Weed Zone/weed3.png" }
+weed4 = { file = "Zones/Weed Zone/weed4.png" }
+weed_arms = { file = "Zones/Weed Zone/weed_arms.apng" }
+weed_chain = { file = "Zones/Weed Zone/weed_chain.png", origin = [3, 0] }
+weed_chain2 = { file = "Zones/Weed Zone/weed_chain2.png", origin = [3, 0] }
+weed_conveyor = { file = "Zones/Weed Zone/weed_conveyor.apng" }
+weed_conveyor2 = { file = "Zones/Weed Zone/weed_conveyor2.apng" }
+weed_conveyor3 = { file = "Zones/Weed Zone/weed_conveyor3.apng" }
+weed_ghosts = { file = "Zones/Weed Zone/weed_ghosts.apng" }
+weed_ghosts2 = { file = "Zones/Weed Zone/weed_ghosts2.apng" }
+weed_latern = { file = "Zones/Weed Zone/weed_latern.apng", origin = [8, 0], fps = 0 }
+weed_light = { file = "Zones/Weed Zone/weed_light.apng", origin = [100, 100], ping_pong = "turn_at_last" }
+weed_slope = { file = "Zones/Weed Zone/weed_slope.png", collision = "precise" }
+weed_slope_jumpthrough = { file = "Zones/Weed Zone/weed_slope_jumpthrough.png", collision = "precise" }
+weed_testiles = { file = "Zones/Weed Zone/weed_testiles.png" }
+weed_tiles2_1 = { file = "Zones/Weed Zone/weed_tiles2_1.png" }
+weed_tiles2_2 = { file = "Zones/Weed Zone/weed_tiles2_2.png" }
+weed_tiles2_3 = { file = "Zones/Weed Zone/weed_tiles2_3.png" }
+weed_tiles2_4 = { file = "Zones/Weed Zone/weed_tiles2_4.png" }
+weed_tiles3_1 = { file = "Zones/Weed Zone/weed_tiles3_1.png" }
+weed_tiles3_2 = { file = "Zones/Weed Zone/weed_tiles3_2.png" }
+weed_tiles3_3 = { file = "Zones/Weed Zone/weed_tiles3_3.png" }
+weed_tiles3_4 = { file = "Zones/Weed Zone/weed_tiles3_4.png" }
+weed_tiles_1 = { file = "Zones/Weed Zone/weed_tiles_1.png" }
+weed_tiles_2 = { file = "Zones/Weed Zone/weed_tiles_2.png" }
+weed_tiles_3 = { file = "Zones/Weed Zone/weed_tiles_3.png" }
+weed_tiles_4 = { file = "Zones/Weed Zone/weed_tiles_4.png" }
+weed_vignette = { file = "Zones/Weed Zone/weed_vignette.png" }
+white = { file = "GUI/Screens/white.png" }
+ycr = { file = "Zones/YouCantRun/ycr.png" }
+ycr2 = { file = "Zones/YouCantRun/ycr2.png" }
+ycr3 = { file = "Zones/YouCantRun/ycr3.png" }
+ycr4 = { file = "Zones/YouCantRun/ycr4.png" }
+ycr_slope = { file = "Zones/YouCantRun/ycr_slope.png", collision = "precise" }
+ycr_slope2 = { file = "Zones/YouCantRun/ycr_slope2.png", collision = "precise" }
+ycr_tiles2_1 = { file = "Zones/YouCantRun/ycr_tiles2_1.png", fps = 0 }
+ycr_tiles2_2 = { file = "Zones/YouCantRun/ycr_tiles2_2.png", fps = 0 }
+ycr_tiles_1 = { file = "Zones/YouCantRun/ycr_tiles_1.png", fps = 0 }
+ycr_tiles_2 = { file = "Zones/YouCantRun/ycr_tiles_2.png", fps = 0 }
+youkilledeveryone = { file = "GUI/Screens/youkilledeveryone.apng", origin = [240, 135], ping_pong = "turn_at_last" }
+yspring_up = { file = "Objects/Springs/yspring_up.apng", origin = [0, 32] }
